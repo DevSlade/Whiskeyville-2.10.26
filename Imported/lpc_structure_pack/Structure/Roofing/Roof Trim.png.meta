@@ -1,0 +1,1643 @@
+fileFormatVersion: 2
+guid: 395d41487030cbe488403a4ca0d4117b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7706882623024485558
+    second: Roof Trim_0
+  - first:
+      213: 7024632600063321139
+    second: Roof Trim_1
+  - first:
+      213: 5131432425069935977
+    second: Roof Trim_2
+  - first:
+      213: 3330186202434223724
+    second: Roof Trim_3
+  - first:
+      213: -409621937079638766
+    second: Roof Trim_4
+  - first:
+      213: 5708913584238875255
+    second: Roof Trim_5
+  - first:
+      213: -2698735649172726251
+    second: Roof Trim_6
+  - first:
+      213: 7251595860384463730
+    second: Roof Trim_7
+  - first:
+      213: 1255681230627281473
+    second: Roof Trim_8
+  - first:
+      213: -6540343178392855237
+    second: Roof Trim_9
+  - first:
+      213: -4616846441493483817
+    second: Roof Trim_10
+  - first:
+      213: 4426968652694764287
+    second: Roof Trim_11
+  - first:
+      213: 3266063077636439835
+    second: Roof Trim_12
+  - first:
+      213: -4732931279235771882
+    second: Roof Trim_13
+  - first:
+      213: 3597240108397150698
+    second: Roof Trim_14
+  - first:
+      213: 5558626316391792777
+    second: Roof Trim_15
+  - first:
+      213: 8793053716194638645
+    second: Roof Trim_16
+  - first:
+      213: 1560419511534393244
+    second: Roof Trim_17
+  - first:
+      213: -2338684435353593369
+    second: Roof Trim_18
+  - first:
+      213: -1204634581715908322
+    second: Roof Trim_19
+  - first:
+      213: -14213914451781724
+    second: Roof Trim_20
+  - first:
+      213: -2987081920399017721
+    second: Roof Trim_21
+  - first:
+      213: 2212469126416953264
+    second: Roof Trim_22
+  - first:
+      213: -800472199372303327
+    second: Roof Trim_23
+  - first:
+      213: -7137378122894023429
+    second: Roof Trim_24
+  - first:
+      213: 6610272584028714659
+    second: Roof Trim_25
+  - first:
+      213: -2044686988557672801
+    second: Roof Trim_26
+  - first:
+      213: -1784656550017629830
+    second: Roof Trim_27
+  - first:
+      213: -4939962377607244956
+    second: Roof Trim_28
+  - first:
+      213: -449041098710017247
+    second: Roof Trim_29
+  - first:
+      213: 1974834614914791896
+    second: Roof Trim_30
+  - first:
+      213: 6929647306164892229
+    second: Roof Trim_31
+  - first:
+      213: -582387300975382484
+    second: Roof Trim_32
+  - first:
+      213: 4243305710983334486
+    second: Roof Trim_33
+  - first:
+      213: 8232521822024393741
+    second: Roof Trim_34
+  - first:
+      213: 820471394066386962
+    second: Roof Trim_35
+  - first:
+      213: -2314065844643040992
+    second: Roof Trim_36
+  - first:
+      213: 3954489908200719370
+    second: Roof Trim_37
+  - first:
+      213: 34514778159209095
+    second: Roof Trim_38
+  - first:
+      213: -6322246280221799237
+    second: Roof Trim_39
+  - first:
+      213: -8027020010976330315
+    second: Roof Trim_40
+  - first:
+      213: -159142553915473448
+    second: Roof Trim_41
+  - first:
+      213: 6844938487629618726
+    second: Roof Trim_42
+  - first:
+      213: 4662074884849456801
+    second: Roof Trim_43
+  - first:
+      213: -3997148429200101749
+    second: Roof Trim_44
+  - first:
+      213: 2548008327694026602
+    second: Roof Trim_45
+  - first:
+      213: 7627228701281671025
+    second: Roof Trim_46
+  - first:
+      213: 1676819531786518340
+    second: Roof Trim_47
+  - first:
+      213: 8129824173381454659
+    second: Roof Trim_48
+  - first:
+      213: 3205929247272303881
+    second: Roof Trim_49
+  - first:
+      213: -3809449843244815235
+    second: Roof Trim_50
+  - first:
+      213: 7707516639058407711
+    second: Roof Trim_51
+  - first:
+      213: 6000752605263368988
+    second: Roof Trim_52
+  - first:
+      213: 8228641763511119519
+    second: Roof Trim_53
+  - first:
+      213: 8793556092303799029
+    second: Roof Trim_54
+  - first:
+      213: -1478701080539989285
+    second: Roof Trim_55
+  - first:
+      213: 6898710231569175188
+    second: Roof Trim_56
+  - first:
+      213: 3697432436739932040
+    second: Roof Trim_57
+  - first:
+      213: -1952036638571313845
+    second: Roof Trim_58
+  - first:
+      213: 4232785456531575886
+    second: Roof Trim_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roof Trim_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 274
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4baef05617ab0590800000000000000
+      internalID: -7706882623024485558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 274
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342764b1228c7160800000000000000
+      internalID: 7024632600063321139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 274
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df6356a92863740800000000000000
+      internalID: 5131432425069935977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 274
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebffff4b2373e20800000000000000
+      internalID: 3330186202434223724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 274
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215292cb40bb05af0800000000000000
+      internalID: -409621937079638766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 274
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d5f168a22a3f40800000000000000
+      internalID: 5708913584238875255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 274
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e5060c93a2c8ad0800000000000000
+      internalID: -2698735649172726251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 274
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bb8e0b308d2a460800000000000000
+      internalID: 7251595860384463730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 274
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1aa62d631d6110800000000000000
+      internalID: 1255681230627281473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_9
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 274
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d9ebe08880c35a0800000000000000
+      internalID: -6540343178392855237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_10
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 274
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de21406f9aadefb0800000000000000
+      internalID: -4616846441493483817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_11
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 274
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa39a7d880cf6d30800000000000000
+      internalID: 4426968652694764287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff9849013635d20800000000000000
+      internalID: 3266063077636439835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 218
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61211d2e310415eb0800000000000000
+      internalID: -4732931279235771882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 215
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1ccc0d1d6fbe130800000000000000
+      internalID: 3597240108397150698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 218
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980cba31f25342d40800000000000000
+      internalID: 5558626316391792777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 215
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb5bc64c3370a70800000000000000
+      internalID: 8793053716194638645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_17
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 218
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97989d3749b7a510800000000000000
+      internalID: 1560419511534393244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 215
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9930d95e25b8fd0800000000000000
+      internalID: -2338684435353593369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_19
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 218
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190ca8fa37484fe0800000000000000
+      internalID: -1204634581715908322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 178
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7db3625808dcff0800000000000000
+      internalID: -14213914451781724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 178
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ff93d1d0cb86d0800000000000000
+      internalID: -2987081920399017721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 178
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfe994c2f444be10800000000000000
+      internalID: 2212469126416953264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_23
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 178
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12496d796c624e4f0800000000000000
+      internalID: -800472199372303327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 178
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4e145a960f2fc90800000000000000
+      internalID: -7137378122894023429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_25
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 178
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f88774e76cbb50800000000000000
+      internalID: 6610272584028714659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_26
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 178
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e18226400df93e0800000000000000
+      internalID: -2044686988557672801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 178
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710022c250ab37e0800000000000000
+      internalID: -1784656550017629830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_28
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 178
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631deef36ab17bb0800000000000000
+      internalID: -4939962377607244956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_29
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 178
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b96d5ff7fa4c9f0800000000000000
+      internalID: -449041098710017247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_30
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 178
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d934208e95086b10800000000000000
+      internalID: 1974834614914791896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_31
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 178
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54273b6928d0b2060800000000000000
+      internalID: 6929647306164892229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20f9abd5d1fae7f0800000000000000
+      internalID: -582387300975382484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_33
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 122
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a4c88ef0043ea30800000000000000
+      internalID: 4243305710983334486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 119
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046a67bafacf3270800000000000000
+      internalID: 8232521822024393741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 122
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21052b7c266e26b00800000000000000
+      internalID: 820471394066386962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_36
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 119
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021ff2fef59c2efd0800000000000000
+      internalID: -2314065844643040992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_37
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 122
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04cb26ae9b21e630800000000000000
+      internalID: 3954489908200719370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 119
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5ea3020f9a7000800000000000000
+      internalID: 34514778159209095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_39
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 122
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc48dc318ed248a0800000000000000
+      internalID: -6322246280221799237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 82
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdbdc834db4a9090800000000000000
+      internalID: -8027020010976330315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 82
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1483db0bc9acdf0800000000000000
+      internalID: -159142553915473448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 82
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e1098d94b1efe50800000000000000
+      internalID: 6844938487629618726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 82
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6d8b3386403b040800000000000000
+      internalID: 4662074884849456801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_44
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 82
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e64037ea64788c0800000000000000
+      internalID: -3997148429200101749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 82
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6780f8f2185c5320800000000000000
+      internalID: 2548008327694026602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_46
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 82
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177de80d71c59d960800000000000000
+      internalID: 7627228701281671025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_47
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 82
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7290ea72454710800000000000000
+      internalID: 1676819531786518340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_48
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 82
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b09c41300f2d070800000000000000
+      internalID: 8129824173381454659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_49
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 82
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d73b62aafbd7c20800000000000000
+      internalID: 3205929247272303881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_50
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 82
+        width: 115
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca9b70d8d122bc0800000000000000
+      internalID: -3809449843244815235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_51
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 82
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113d7b0c8996fa60800000000000000
+      internalID: 7707516639058407711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1319bd73b4f64350800000000000000
+      internalID: 6000752605263368988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_53
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 26
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e26023612023270800000000000000
+      internalID: 8228641763511119519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f27d3afcacf80a70800000000000000
+      internalID: 8793556092303799029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 26
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda7d65a3399a7be0800000000000000
+      internalID: -1478701080539989285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 23
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492980997642dbf50800000000000000
+      internalID: 6898710231569175188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_57
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 26
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ff3ec163bef4330800000000000000
+      internalID: 3697432436739932040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_58
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 23
+        width: 114
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c8610509f8e4e0800000000000000
+      internalID: -1952036638571313845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roof Trim_59
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 26
+        width: 178
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44110b42ffddba30800000000000000
+      internalID: 4232785456531575886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

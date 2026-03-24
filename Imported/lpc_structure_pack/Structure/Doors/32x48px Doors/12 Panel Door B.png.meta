@@ -1,0 +1,2943 @@
+fileFormatVersion: 2
+guid: 329fb1251408fb743b131cf391607347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 834089315724137677
+    second: 12 Panel Door B_0
+  - first:
+      213: -5028702662227580867
+    second: 12 Panel Door B_1
+  - first:
+      213: -6084714026029798295
+    second: 12 Panel Door B_2
+  - first:
+      213: 2640130427631632376
+    second: 12 Panel Door B_3
+  - first:
+      213: -7803038902251138847
+    second: 12 Panel Door B_4
+  - first:
+      213: -3445244765061703993
+    second: 12 Panel Door B_5
+  - first:
+      213: -1413039669477897987
+    second: 12 Panel Door B_6
+  - first:
+      213: 4748579457025917773
+    second: 12 Panel Door B_7
+  - first:
+      213: -2235263112141241542
+    second: 12 Panel Door B_8
+  - first:
+      213: -7031882354389692963
+    second: 12 Panel Door B_9
+  - first:
+      213: -8134260624644103148
+    second: 12 Panel Door B_10
+  - first:
+      213: 6831209373201332753
+    second: 12 Panel Door B_11
+  - first:
+      213: 8968891983436939161
+    second: 12 Panel Door B_12
+  - first:
+      213: 5215305240804717651
+    second: 12 Panel Door B_13
+  - first:
+      213: -3145011324085493513
+    second: 12 Panel Door B_14
+  - first:
+      213: -3263525127662472108
+    second: 12 Panel Door B_15
+  - first:
+      213: -8310544024218652254
+    second: 12 Panel Door B_16
+  - first:
+      213: -4483762110369277791
+    second: 12 Panel Door B_17
+  - first:
+      213: -8351130224258516601
+    second: 12 Panel Door B_18
+  - first:
+      213: 8122820588180184556
+    second: 12 Panel Door B_19
+  - first:
+      213: -8664417584927091988
+    second: 12 Panel Door B_20
+  - first:
+      213: 3729155816827850802
+    second: 12 Panel Door B_21
+  - first:
+      213: -5465089245602180037
+    second: 12 Panel Door B_22
+  - first:
+      213: 6663577422386581438
+    second: 12 Panel Door B_23
+  - first:
+      213: 8355907187962820538
+    second: 12 Panel Door B_24
+  - first:
+      213: -7221193623763576316
+    second: 12 Panel Door B_25
+  - first:
+      213: 5827449048898700680
+    second: 12 Panel Door B_26
+  - first:
+      213: 7362444833069070827
+    second: 12 Panel Door B_27
+  - first:
+      213: -5114926247619708445
+    second: 12 Panel Door B_28
+  - first:
+      213: 2003641591724516293
+    second: 12 Panel Door B_29
+  - first:
+      213: 5646498680328737161
+    second: 12 Panel Door B_30
+  - first:
+      213: 1631907802908410379
+    second: 12 Panel Door B_31
+  - first:
+      213: -3048402329767808486
+    second: 12 Panel Door B_32
+  - first:
+      213: -7991111869284726998
+    second: 12 Panel Door B_33
+  - first:
+      213: 3822680951345990732
+    second: 12 Panel Door B_34
+  - first:
+      213: 2237457966893347445
+    second: 12 Panel Door B_35
+  - first:
+      213: -7824522248709637369
+    second: 12 Panel Door B_36
+  - first:
+      213: -7539277125424987425
+    second: 12 Panel Door B_37
+  - first:
+      213: 6285575603697422035
+    second: 12 Panel Door B_38
+  - first:
+      213: 1708352923163849952
+    second: 12 Panel Door B_39
+  - first:
+      213: 8530725980300289563
+    second: 12 Panel Door B_40
+  - first:
+      213: 1023799956907438281
+    second: 12 Panel Door B_41
+  - first:
+      213: -5691601734692783586
+    second: 12 Panel Door B_42
+  - first:
+      213: 5102118006188337847
+    second: 12 Panel Door B_43
+  - first:
+      213: 8510083782772524785
+    second: 12 Panel Door B_44
+  - first:
+      213: -7635561541887411569
+    second: 12 Panel Door B_45
+  - first:
+      213: -2411912543321371369
+    second: 12 Panel Door B_46
+  - first:
+      213: -4199582849110776828
+    second: 12 Panel Door B_47
+  - first:
+      213: -500357850839371569
+    second: 12 Panel Door B_48
+  - first:
+      213: -4893528129661008427
+    second: 12 Panel Door B_49
+  - first:
+      213: 3565737117780124930
+    second: 12 Panel Door B_50
+  - first:
+      213: -3970363393775058346
+    second: 12 Panel Door B_51
+  - first:
+      213: -5204661208470230892
+    second: 12 Panel Door B_52
+  - first:
+      213: 4552434761108538269
+    second: 12 Panel Door B_53
+  - first:
+      213: 4202216284243120832
+    second: 12 Panel Door B_54
+  - first:
+      213: 2330507533383985996
+    second: 12 Panel Door B_55
+  - first:
+      213: 6391954897684471967
+    second: 12 Panel Door B_56
+  - first:
+      213: 440857936397013245
+    second: 12 Panel Door B_57
+  - first:
+      213: -9017742522396735730
+    second: 12 Panel Door B_58
+  - first:
+      213: 2662757515634624590
+    second: 12 Panel Door B_59
+  - first:
+      213: 1053693031612340373
+    second: 12 Panel Door B_60
+  - first:
+      213: -3805111784298186389
+    second: 12 Panel Door B_61
+  - first:
+      213: 8159841969639355032
+    second: 12 Panel Door B_62
+  - first:
+      213: 636896225921439626
+    second: 12 Panel Door B_63
+  - first:
+      213: 1960361021545857087
+    second: 12 Panel Door B_64
+  - first:
+      213: 2658623599494487375
+    second: 12 Panel Door B_65
+  - first:
+      213: -1342819642419403095
+    second: 12 Panel Door B_66
+  - first:
+      213: -116485701383702813
+    second: 12 Panel Door B_67
+  - first:
+      213: -3199722710537147295
+    second: 12 Panel Door B_68
+  - first:
+      213: 2720962168433911902
+    second: 12 Panel Door B_69
+  - first:
+      213: 8922908944955637809
+    second: 12 Panel Door B_70
+  - first:
+      213: -829582898463492699
+    second: 12 Panel Door B_71
+  - first:
+      213: 7788803852884083441
+    second: 12 Panel Door B_72
+  - first:
+      213: -1190780448271330157
+    second: 12 Panel Door B_73
+  - first:
+      213: -2670558427534699066
+    second: 12 Panel Door B_74
+  - first:
+      213: 5903004618018697234
+    second: 12 Panel Door B_75
+  - first:
+      213: 3519068351292128630
+    second: 12 Panel Door B_76
+  - first:
+      213: -4983227484560514554
+    second: 12 Panel Door B_77
+  - first:
+      213: -2040262123739220614
+    second: 12 Panel Door B_78
+  - first:
+      213: -4723289820248784421
+    second: 12 Panel Door B_79
+  - first:
+      213: 5145210154821147031
+    second: 12 Panel Door B_80
+  - first:
+      213: 6985069530032973256
+    second: 12 Panel Door B_81
+  - first:
+      213: 138350461305015381
+    second: 12 Panel Door B_82
+  - first:
+      213: -7024871784625960911
+    second: 12 Panel Door B_83
+  - first:
+      213: -7025115156249655912
+    second: 12 Panel Door B_84
+  - first:
+      213: -1658339307783213262
+    second: 12 Panel Door B_85
+  - first:
+      213: 3247377748709864420
+    second: 12 Panel Door B_86
+  - first:
+      213: -8031392569300086643
+    second: 12 Panel Door B_87
+  - first:
+      213: -3635449728510209447
+    second: 12 Panel Door B_88
+  - first:
+      213: -1144107616086093222
+    second: 12 Panel Door B_89
+  - first:
+      213: 8420202045927895167
+    second: 12 Panel Door B_90
+  - first:
+      213: 2927921915175310053
+    second: 12 Panel Door B_91
+  - first:
+      213: 6472973959808488117
+    second: 12 Panel Door B_92
+  - first:
+      213: 3138246230663782242
+    second: 12 Panel Door B_93
+  - first:
+      213: -2281705842253174389
+    second: 12 Panel Door B_94
+  - first:
+      213: 3935663332535567393
+    second: 12 Panel Door B_95
+  - first:
+      213: 7452572528330429567
+    second: 12 Panel Door B_96
+  - first:
+      213: -6997120570777990849
+    second: 12 Panel Door B_97
+  - first:
+      213: 6376346971134951706
+    second: 12 Panel Door B_98
+  - first:
+      213: 1368161248795599199
+    second: 12 Panel Door B_99
+  - first:
+      213: 3831038661997166711
+    second: 12 Panel Door B_100
+  - first:
+      213: 6366377456965542660
+    second: 12 Panel Door B_101
+  - first:
+      213: 1490215764968685060
+    second: 12 Panel Door B_102
+  - first:
+      213: -3122661036996253657
+    second: 12 Panel Door B_103
+  - first:
+      213: 1659306027806924184
+    second: 12 Panel Door B_104
+  - first:
+      213: -1450094204946817964
+    second: 12 Panel Door B_105
+  - first:
+      213: 96382560984821569
+    second: 12 Panel Door B_106
+  - first:
+      213: -1961674922919938532
+    second: 12 Panel Door B_107
+  - first:
+      213: 3211623421067869867
+    second: 12 Panel Door B_108
+  - first:
+      213: 7772891654451693288
+    second: 12 Panel Door B_109
+  - first:
+      213: 2009264629258044577
+    second: 12 Panel Door B_110
+  - first:
+      213: -5197437475456782849
+    second: 12 Panel Door B_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12 Panel Door B_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 703
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49fae30d7439b00800000000000000
+      internalID: 834089315724137677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 703
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d382dd86295763ab0800000000000000
+      internalID: -5028702662227580867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c28aed4d0ce8ba0800000000000000
+      internalID: -6084714026029798295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fffeabc2a0a3a420800000000000000
+      internalID: 2640130427631632376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 695
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e054cee57906b390800000000000000
+      internalID: -7803038902251138847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 690
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6193ec3280030d0800000000000000
+      internalID: -3445244765061703993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 687
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df80c3f38efd36ce0800000000000000
+      internalID: -1413039669477897987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 703
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434fbb6bd756e140800000000000000
+      internalID: 4748579457025917773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 703
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33894dda00caf0e0800000000000000
+      internalID: -2235263112141241542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 703
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddc344514cb96e90800000000000000
+      internalID: -7031882354389692963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41424ad1f0d4d1f80800000000000000
+      internalID: -8134260624644103148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 695
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afbfb4bb45dce50800000000000000
+      internalID: 6831209373201332753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 690
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f7b9d5db7e77c70800000000000000
+      internalID: 8968891983436939161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 687
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354f5611c7c706840800000000000000
+      internalID: 5215305240804717651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 607
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ad4d1ddcaa54d0800000000000000
+      internalID: -3145011324085493513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 607
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454fd12ff21a5b2d0800000000000000
+      internalID: -3263525127662472108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 607
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1b33abd340bac80800000000000000
+      internalID: -8310544024218652254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 607
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8551add1a76c1c0800000000000000
+      internalID: -4483762110369277791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 599
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789fa06ae43da1c80800000000000000
+      internalID: -8351130224258516601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 594
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced95b4d94e0ab070800000000000000
+      internalID: 8122820588180184556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 591
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d5c0dc1ec1c780800000000000000
+      internalID: -8664417584927091988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 607
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301b1e157f90c330800000000000000
+      internalID: 3729155816827850802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 607
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b341312594a1824b0800000000000000
+      internalID: -5465089245602180037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 607
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf4aaa4c58c97c50800000000000000
+      internalID: 6663577422386581438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 607
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab738a2e05526f370800000000000000
+      internalID: 8355907187962820538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 599
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a9141a8aa29cb90800000000000000
+      internalID: -7221193623763576316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_26
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 594
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858b4ae8024fd050800000000000000
+      internalID: 5827449048898700680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 591
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9fd795198ac2660800000000000000
+      internalID: 7362444833069070827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 511
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e93e468da12409b0800000000000000
+      internalID: -5114926247619708445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 511
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c320f3796d5ecb10800000000000000
+      internalID: 2003641591724516293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 511
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d4b122a46c5e40800000000000000
+      internalID: 5646498680328737161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 511
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024b822083b5a610800000000000000
+      internalID: 1631907802908410379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 503
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1277b17b36e1b5d0800000000000000
+      internalID: -3048402329767808486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 498
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2740e6f71ed91190800000000000000
+      internalID: -7991111869284726998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 495
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c41a26214ec0530800000000000000
+      internalID: 3822680951345990732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 511
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572bb849a2c0d0f10800000000000000
+      internalID: 2237457966893347445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 511
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b758c8876b96390800000000000000
+      internalID: -7824522248709637369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 511
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2c0d3366b1f5790800000000000000
+      internalID: -7539277125424987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_38
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 511
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0f3b85b9da3750800000000000000
+      internalID: 6285575603697422035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 503
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47e20bee945b710800000000000000
+      internalID: 1708352923163849952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_40
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 498
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16aef3d41a336670800000000000000
+      internalID: 8530725980300289563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_41
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 495
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c03780f2a4453e00800000000000000
+      internalID: 1023799956907438281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab3a0b06e5301b0800000000000000
+      internalID: -5691601734692783586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 415
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baeaf06b4d5ec640800000000000000
+      internalID: 5102118006188337847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 415
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f608f0bc14e91670800000000000000
+      internalID: 8510083782772524785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 415
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aba2b8b39090690800000000000000
+      internalID: -7635561541887411569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 407
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d450a125a278ed0800000000000000
+      internalID: -2411912543321371369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 402
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ede926a518b5c0800000000000000
+      internalID: -4199582849110776828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 399
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc034288f2f5e09f0800000000000000
+      internalID: -500357850839371569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_49
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 415
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58c25d712b61cb0800000000000000
+      internalID: -4893528129661008427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 415
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a5bb340b0c7130800000000000000
+      internalID: 3565737117780124930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 415
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652c2dc778f66e8c0800000000000000
+      internalID: -3970363393775058346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 415
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49860e4d43455c7b0800000000000000
+      internalID: -5204661208470230892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 407
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c30f9b4f7d2f30800000000000000
+      internalID: 4552434761108538269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 402
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25cab3275415a30800000000000000
+      internalID: 4202216284243120832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_55
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 399
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b69b90140a75020800000000000000
+      internalID: 2330507533383985996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 319
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f902dc80d19c4b850800000000000000
+      internalID: 6391954897684471967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 319
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df01b5715fd3e1600800000000000000
+      internalID: 440857936397013245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 319
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078b9434fa8ad280800000000000000
+      internalID: -9017742522396735730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4847624ad304f420800000000000000
+      internalID: 2662757515634624590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_60
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 311
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598de83ca387f9e00800000000000000
+      internalID: 1053693031612340373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 306
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69f0461ef6813bc0800000000000000
+      internalID: -3805111784298186389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 303
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927da7e9059d3170800000000000000
+      internalID: 8159841969639355032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 319
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8795d83eb5b6d800800000000000000
+      internalID: 636896225921439626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_64
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 319
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3043c076f9943b10800000000000000
+      internalID: 1960361021545857087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_65
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 319
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd657e31455e420800000000000000
+      internalID: 2658623599494487375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_66
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 319
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ac2856a85d5de0800000000000000
+      internalID: -1342819642419403095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_67
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 311
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6bc9b2fd8226ef0800000000000000
+      internalID: -116485701383702813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_68
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 306
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ceeaac52d4893d0800000000000000
+      internalID: -3199722710537147295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_69
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 303
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a7c80dacc2c520800000000000000
+      internalID: 2720962168433911902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 223
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1308c3be86a84db70800000000000000
+      internalID: 8922908944955637809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53859cfbabc74f0800000000000000
+      internalID: -829582898463492699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2895c56d3671c60800000000000000
+      internalID: 7788803852884083441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3949e47cd7f797fe0800000000000000
+      internalID: -1190780448271330157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 215
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55ed6624540fad0800000000000000
+      internalID: -2670558427534699066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 210
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210be74bc6fabe150800000000000000
+      internalID: 5903004618018697234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_76
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 207
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d361b450e36d030800000000000000
+      internalID: 3519068351292128630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_77
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 223
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602aecb410508dab0800000000000000
+      internalID: -4983227484560514554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_78
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 223
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75f6d188688fa3e0800000000000000
+      internalID: -2040262123739220614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 223
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd14adcfee0837eb0800000000000000
+      internalID: -4723289820248784421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d8d41065776740800000000000000
+      internalID: 5145210154821147031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_81
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 215
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c52505aab3ffe060800000000000000
+      internalID: 6985069530032973256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_82
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 210
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc894f2058be100800000000000000
+      internalID: 138350461305015381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_83
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 207
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13884bcc454a28e90800000000000000
+      internalID: -7024871784625960911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 127
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c68d6cf6c18e90800000000000000
+      internalID: -7025115156249655912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa3829f256cf8e0800000000000000
+      internalID: -1658339307783213262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 127
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3fb5b6bd0011d20800000000000000
+      internalID: 3247377748709864420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d801827a203ca8090800000000000000
+      internalID: -8031392569300086643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 119
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952db5dbbb94c8dc0800000000000000
+      internalID: -3635449728510209447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_89
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 114
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529e565f205f10f0800000000000000
+      internalID: -1144107616086093222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 111
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70bc8c06219ad470800000000000000
+      internalID: 8420202045927895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_91
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 127
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21b14187112a820800000000000000
+      internalID: 2927921915175310053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_92
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 127
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b21dba658f94d950800000000000000
+      internalID: 6472973959808488117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_93
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 127
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5c64d15a4d8b20800000000000000
+      internalID: 3138246230663782242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_94
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e09e10a0c550e0800000000000000
+      internalID: -2281705842253174389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_95
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 119
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124005be2f84e9630800000000000000
+      internalID: 3935663332535567393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_96
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 114
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7458f5aa3bdc6760800000000000000
+      internalID: 7452572528330429567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_97
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 111
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f390338c9eb35ee90800000000000000
+      internalID: -6997120570777990849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11032379c55d7850800000000000000
+      internalID: 6376346971134951706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_99
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51aaed286facf210800000000000000
+      internalID: 1368161248795599199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77001298d559a2530800000000000000
+      internalID: 3831038661997166711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4036c7c019ae95850800000000000000
+      internalID: 6366377456965542660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_102
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 23
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e35adb75f4ea410800000000000000
+      internalID: 1490215764968685060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 18
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728a2e7d4541aa4d0800000000000000
+      internalID: -3122661036996253657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_104
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d98197a0a070710800000000000000
+      internalID: 1659306027806924184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_105
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 31
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cda47e00b30ebe0800000000000000
+      internalID: -1450094204946817964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_106
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 31
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fea06bd6b665100800000000000000
+      internalID: 96382560984821569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_107
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 31
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b09e0d0bb6c4e0800000000000000
+      internalID: -1961674922919938532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_108
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae331d4c7af19c20800000000000000
+      internalID: 3211623421067869867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_109
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 23
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e60135f6cbdedb60800000000000000
+      internalID: 7772891654451693288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_110
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 18
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cea6e88752eb10800000000000000
+      internalID: 2009264629258044577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door B_111
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 15
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd681d372efed7b0800000000000000
+      internalID: -5197437475456782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

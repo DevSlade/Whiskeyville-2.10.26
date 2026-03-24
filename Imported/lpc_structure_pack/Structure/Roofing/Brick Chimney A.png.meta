@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: ef80398886fe28b448eecc0a17414265
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8238092524227492661
+    second: Brick Chimney A_0
+  - first:
+      213: 6748277969320355788
+    second: Brick Chimney A_1
+  - first:
+      213: 274466409685854714
+    second: Brick Chimney A_2
+  - first:
+      213: -7338483607660012329
+    second: Brick Chimney A_3
+  - first:
+      213: 7161397098332987749
+    second: Brick Chimney A_4
+  - first:
+      213: 5143049306596948677
+    second: Brick Chimney A_5
+  - first:
+      213: 7093157151356870732
+    second: Brick Chimney A_6
+  - first:
+      213: -6874227341387287777
+    second: Brick Chimney A_7
+  - first:
+      213: 4423661951551056438
+    second: Brick Chimney A_8
+  - first:
+      213: -334192748145810007
+    second: Brick Chimney A_9
+  - first:
+      213: -7937570232096682272
+    second: Brick Chimney A_10
+  - first:
+      213: 913971737892027805
+    second: Brick Chimney A_11
+  - first:
+      213: -474154875404451285
+    second: Brick Chimney A_12
+  - first:
+      213: -2534260899310036047
+    second: Brick Chimney A_13
+  - first:
+      213: 656259085181022794
+    second: Brick Chimney A_14
+  - first:
+      213: 4170839505749034399
+    second: Brick Chimney A_15
+  - first:
+      213: 7344781068117737819
+    second: Brick Chimney A_16
+  - first:
+      213: -1950804103866514921
+    second: Brick Chimney A_17
+  - first:
+      213: 5429562013002484836
+    second: Brick Chimney A_18
+  - first:
+      213: 5341568089769304738
+    second: Brick Chimney A_19
+  - first:
+      213: 6094916486520766902
+    second: Brick Chimney A_20
+  - first:
+      213: 5750466467175483747
+    second: Brick Chimney A_21
+  - first:
+      213: -9169282243726955730
+    second: Brick Chimney A_22
+  - first:
+      213: 3256880086221069751
+    second: Brick Chimney A_23
+  - first:
+      213: 5806841984587680324
+    second: Brick Chimney A_24
+  - first:
+      213: 8062713251364141592
+    second: Brick Chimney A_25
+  - first:
+      213: -4608148584137107272
+    second: Brick Chimney A_26
+  - first:
+      213: 8439202340138235990
+    second: Brick Chimney A_27
+  - first:
+      213: 8181661909977050371
+    second: Brick Chimney A_28
+  - first:
+      213: -3372192105908856437
+    second: Brick Chimney A_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brick Chimney A_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b7165e085935270800000000000000
+      internalID: 8238092524227492661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72fe62f03b6ad50800000000000000
+      internalID: 6748277969320355788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 167
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af92a14deb91fc300800000000000000
+      internalID: 274466409685854714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 167
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd56f2a08782a90800000000000000
+      internalID: -7338483607660012329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 135
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a6add7b4626360800000000000000
+      internalID: 7161397098332987749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 167
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab7066818cf5740800000000000000
+      internalID: 5143049306596948677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40e5a619d4ff6260800000000000000
+      internalID: 7093157151356870732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13355b77a6d990a0800000000000000
+      internalID: -6874227341387287777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aac9c7b11046d30800000000000000
+      internalID: 4423661951551056438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 135
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5e1485775bc5bf0800000000000000
+      internalID: -334192748145810007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee8920dde518d190800000000000000
+      internalID: -7937570232096682272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dfcc304741fac00800000000000000
+      internalID: 913971737892027805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b228ffa27a67b69f0800000000000000
+      internalID: -474154875404451285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9670a32f74dcd0800000000000000
+      internalID: -2534260899310036047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4276d439208b1900800000000000000
+      internalID: 656259085181022794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f954653be6cc1e930800000000000000
+      internalID: 4170839505749034399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b510c269777ede560800000000000000
+      internalID: 7344781068117737819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71289aad00a5de4e0800000000000000
+      internalID: -1950804103866514921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc7fe32eda95b40800000000000000
+      internalID: 5429562013002484836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 71
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e24670ef012a40800000000000000
+      internalID: 5341568089769304738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10eb2904e759450800000000000000
+      internalID: 6094916486520766902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694accd8c2cdcf40800000000000000
+      internalID: 5750466467175483747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bab59516a20c080800000000000000
+      internalID: -9169282243726955730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd1047ce23c23d20800000000000000
+      internalID: 3256880086221069751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 7
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a4c2ed40c069050800000000000000
+      internalID: 5806841984587680324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81af469ebf284ef60800000000000000
+      internalID: 8062713251364141592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d94a17419c00c0800000000000000
+      internalID: -4608148584137107272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658b597c0d11e1570800000000000000
+      internalID: 8439202340138235990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da688a82a1b8170800000000000000
+      internalID: 8181661909977050371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Chimney A_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891de475219331d0800000000000000
+      internalID: -3372192105908856437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

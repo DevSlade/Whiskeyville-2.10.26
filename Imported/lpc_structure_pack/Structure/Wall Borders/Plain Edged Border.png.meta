@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: f0a2c350cc510524c9b47ff0e70a3f37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3234612011029590329
+    second: Plain Edged Border_0
+  - first:
+      213: -1360281315042149111
+    second: Plain Edged Border_1
+  - first:
+      213: 5788125905122199039
+    second: Plain Edged Border_2
+  - first:
+      213: 7448237207414506863
+    second: Plain Edged Border_3
+  - first:
+      213: 5490947631839571096
+    second: Plain Edged Border_4
+  - first:
+      213: 970061337314382092
+    second: Plain Edged Border_5
+  - first:
+      213: 6177252666318419070
+    second: Plain Edged Border_6
+  - first:
+      213: 5223216538574611100
+    second: Plain Edged Border_7
+  - first:
+      213: -1528132900924180724
+    second: Plain Edged Border_8
+  - first:
+      213: -5058563565207669024
+    second: Plain Edged Border_9
+  - first:
+      213: 4198458356361983702
+    second: Plain Edged Border_10
+  - first:
+      213: -4732875601781284400
+    second: Plain Edged Border_11
+  - first:
+      213: -7671578190670657822
+    second: Plain Edged Border_12
+  - first:
+      213: 6890875662568070310
+    second: Plain Edged Border_13
+  - first:
+      213: 3837454650902280794
+    second: Plain Edged Border_14
+  - first:
+      213: 5126443176061033310
+    second: Plain Edged Border_15
+  - first:
+      213: -7681863164130910559
+    second: Plain Edged Border_16
+  - first:
+      213: 947114834469553050
+    second: Plain Edged Border_17
+  - first:
+      213: -4423392372664486750
+    second: Plain Edged Border_18
+  - first:
+      213: 8809879015771853725
+    second: Plain Edged Border_19
+  - first:
+      213: -4461632519860853854
+    second: Plain Edged Border_20
+  - first:
+      213: -3958247453933760692
+    second: Plain Edged Border_21
+  - first:
+      213: 5127345253416037100
+    second: Plain Edged Border_22
+  - first:
+      213: -5590100577333530605
+    second: Plain Edged Border_23
+  - first:
+      213: 4788149634581584119
+    second: Plain Edged Border_24
+  - first:
+      213: -8132753645675610262
+    second: Plain Edged Border_25
+  - first:
+      213: -5894853114785302644
+    second: Plain Edged Border_26
+  - first:
+      213: 2665312047247868350
+    second: Plain Edged Border_27
+  - first:
+      213: -3326439038631419423
+    second: Plain Edged Border_28
+  - first:
+      213: 9111189375880154049
+    second: Plain Edged Border_29
+  - first:
+      213: 4587658166536137014
+    second: Plain Edged Border_30
+  - first:
+      213: 6496562495527365290
+    second: Plain Edged Border_31
+  - first:
+      213: -3642517808460161764
+    second: Plain Edged Border_32
+  - first:
+      213: 523314674461403133
+    second: Plain Edged Border_33
+  - first:
+      213: 8788441183385610257
+    second: Plain Edged Border_34
+  - first:
+      213: -561896762225002173
+    second: Plain Edged Border_35
+  - first:
+      213: 1799654504470784731
+    second: Plain Edged Border_36
+  - first:
+      213: 1217449813937835011
+    second: Plain Edged Border_37
+  - first:
+      213: 708788280389305905
+    second: Plain Edged Border_38
+  - first:
+      213: 8548062641824869424
+    second: Plain Edged Border_39
+  - first:
+      213: -8599941406633212679
+    second: Plain Edged Border_40
+  - first:
+      213: -990012743626076303
+    second: Plain Edged Border_41
+  - first:
+      213: 4791102657323389095
+    second: Plain Edged Border_42
+  - first:
+      213: -7555965532799214552
+    second: Plain Edged Border_43
+  - first:
+      213: -2744372931167886769
+    second: Plain Edged Border_44
+  - first:
+      213: -2099204978438316034
+    second: Plain Edged Border_45
+  - first:
+      213: -8008805771926628042
+    second: Plain Edged Border_46
+  - first:
+      213: -8151037649792153383
+    second: Plain Edged Border_47
+  - first:
+      213: 3991687988339588507
+    second: Plain Edged Border_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plain Edged Border_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 233
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93171af7c76a3ec20800000000000000
+      internalID: 3234612011029590329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 375
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dbf4ed95f4f1de0800000000000000
+      internalID: -1360281315042149111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 375
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff58b0a08dd835050800000000000000
+      internalID: 5788125905122199039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 306
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650ac617447d5760800000000000000
+      internalID: 7448237207414506863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 375
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ce11467c3c33c40800000000000000
+      internalID: 5490947631839571096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 375
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d6fc85a9567d00800000000000000
+      internalID: 970061337314382092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 375
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e747ebf42920ab550800000000000000
+      internalID: 6177252666318419070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 375
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c926fae94c79c7840800000000000000
+      internalID: 5223216538574611100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 375
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b3d6193bfacae0800000000000000
+      internalID: -1528132900924180724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 343
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e630162d3f5cc9b0800000000000000
+      internalID: -5058563565207669024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 343
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6f93771abe34a30800000000000000
+      internalID: 4198458356361983702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 343
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a6bd47b2715eb0800000000000000
+      internalID: -4732875601781284400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 351
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e601760844198590800000000000000
+      internalID: -7671578190670657822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 351
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac11cad7ee41af50800000000000000
+      internalID: 6890875662568070310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 247
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a73bc5ca0614530800000000000000
+      internalID: 3837454650902280794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd75658e8c42740800000000000000
+      internalID: 5126443176061033310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 247
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae91d8072a846590800000000000000
+      internalID: -7681863164130910559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 319
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a938f068ce3d42d00800000000000000
+      internalID: 947114834469553050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 247
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4392db214fc92c0800000000000000
+      internalID: -4423392372664486750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 279
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93df31c94af24a70800000000000000
+      internalID: 8809879015771853725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 279
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ec57acd81512c0800000000000000
+      internalID: -4461632519860853854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 247
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0f2f89ea7119c0800000000000000
+      internalID: -3958247453933760692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 247
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae5a6975df72740800000000000000
+      internalID: 5127345253416037100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 215
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310345d7429fb62b0800000000000000
+      internalID: -5590100577333530605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 215
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8d6a459bce27240800000000000000
+      internalID: 4788149634581584119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 215
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ffdbff5a7a22f80800000000000000
+      internalID: -8132753645675610262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 223
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87fd1a0356413ea0800000000000000
+      internalID: -5894853114785302644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_27
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 223
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb147cf7f271df420800000000000000
+      internalID: 2665312047247868350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 119
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e16f815d16d1d0800000000000000
+      internalID: -3326439038631419423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb46a6d672717e70800000000000000
+      internalID: 9111189375880154049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 119
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6396e47cbc2aaaf30800000000000000
+      internalID: 4587658166536137014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaa80f5b2d682a50800000000000000
+      internalID: 6496562495527365290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_32
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 119
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d92b22a5d237dc0800000000000000
+      internalID: -3642517808460161764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 151
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7650d7cef234700800000000000000
+      internalID: 523314674461403133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_34
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 151
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ec1171b0d6f970800000000000000
+      internalID: 8788441183385610257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f22f2fddb338f0800000000000000
+      internalID: -561896762225002173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_36
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa961ac38a9f810800000000000000
+      internalID: 1799654504470784731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c41abc72045e010800000000000000
+      internalID: 1217449813937835011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_38
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13680998f2f16d900800000000000000
+      internalID: 708788280389305905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_39
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 87
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c22c3eea1d0a670800000000000000
+      internalID: 8548062641824869424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_40
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f44478eaded6a880800000000000000
+      internalID: -8599941406633212679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_41
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 95
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fce0da7a4c242f0800000000000000
+      internalID: -990012743626076303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d0348b7a6d7240800000000000000
+      internalID: 4791102657323389095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c58629161d32790800000000000000
+      internalID: -7555965532799214552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_44
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f426a820c570ae9d0800000000000000
+      internalID: -2744372931167886769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effd375b1302ed2e0800000000000000
+      internalID: -2099204978438316034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_46
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639173935910bd090800000000000000
+      internalID: -8008805771926628042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 23
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8cd4d8172b1ee80800000000000000
+      internalID: -8151037649792153383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plain Edged Border_48
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 23
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dbc279313556730800000000000000
+      internalID: 3991687988339588507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

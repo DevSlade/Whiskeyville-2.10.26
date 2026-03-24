@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 94a05f0381c70ee448d0b65a39242d74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7047528545265250982
+    second: Vegetables_Slices_0
+  - first:
+      213: 7153139362744255009
+    second: Vegetables_Slices_1
+  - first:
+      213: -5828614391311853206
+    second: Vegetables_Slices_2
+  - first:
+      213: -8988061356354104364
+    second: Vegetables_Slices_3
+  - first:
+      213: -5752626972466374469
+    second: Vegetables_Slices_4
+  - first:
+      213: 8075164251248375403
+    second: Vegetables_Slices_5
+  - first:
+      213: 7267187584753087321
+    second: Vegetables_Slices_6
+  - first:
+      213: -2430469271418677089
+    second: Vegetables_Slices_7
+  - first:
+      213: 857308923379431184
+    second: Vegetables_Slices_8
+  - first:
+      213: 6508396739510515202
+    second: Vegetables_Slices_9
+  - first:
+      213: -1724736595550795834
+    second: Vegetables_Slices_10
+  - first:
+      213: 9184926499734415657
+    second: Vegetables_Slices_11
+  - first:
+      213: 780694831008373943
+    second: Vegetables_Slices_12
+  - first:
+      213: -7666524580993396490
+    second: Vegetables_Slices_13
+  - first:
+      213: -1456182332556070739
+    second: Vegetables_Slices_14
+  - first:
+      213: -6546110231599824452
+    second: Vegetables_Slices_15
+  - first:
+      213: -6113357098406793917
+    second: Vegetables_Slices_16
+  - first:
+      213: -8788750968510423375
+    second: Vegetables_Slices_17
+  - first:
+      213: 1074853232992693975
+    second: Vegetables_Slices_18
+  - first:
+      213: -1558830528305492759
+    second: Vegetables_Slices_19
+  - first:
+      213: 4401866878040158817
+    second: Vegetables_Slices_20
+  - first:
+      213: -2960966280774633314
+    second: Vegetables_Slices_21
+  - first:
+      213: 7350450632266405701
+    second: Vegetables_Slices_22
+  - first:
+      213: -4201251758168679575
+    second: Vegetables_Slices_23
+  - first:
+      213: 4899962288482742372
+    second: Vegetables_Slices_24
+  - first:
+      213: 5960872045803445986
+    second: Vegetables_Slices_25
+  - first:
+      213: 1487952343005580650
+    second: Vegetables_Slices_26
+  - first:
+      213: -6670256386915520356
+    second: Vegetables_Slices_27
+  - first:
+      213: -4777144234600836135
+    second: Vegetables_Slices_28
+  - first:
+      213: -5401012075991356865
+    second: Vegetables_Slices_29
+  - first:
+      213: 7040250431752807682
+    second: Vegetables_Slices_30
+  - first:
+      213: 8218236316314256187
+    second: Vegetables_Slices_31
+  - first:
+      213: -6800953626830533624
+    second: Vegetables_Slices_32
+  - first:
+      213: -6501225407972604197
+    second: Vegetables_Slices_33
+  - first:
+      213: 1155939581384780100
+    second: Vegetables_Slices_34
+  - first:
+      213: 7280625174270726745
+    second: Vegetables_Slices_35
+  - first:
+      213: -7295452023513494965
+    second: Vegetables_Slices_36
+  - first:
+      213: -6654987885278358919
+    second: Vegetables_Slices_37
+  - first:
+      213: 4498006967638498541
+    second: Vegetables_Slices_38
+  - first:
+      213: -142404764786341556
+    second: Vegetables_Slices_39
+  - first:
+      213: -483299494436946011
+    second: Vegetables_Slices_40
+  - first:
+      213: -4986609600823270199
+    second: Vegetables_Slices_41
+  - first:
+      213: -917562535789914005
+    second: Vegetables_Slices_42
+  - first:
+      213: -3180546936988162217
+    second: Vegetables_Slices_43
+  - first:
+      213: 3341002335693929770
+    second: Vegetables_Slices_44
+  - first:
+      213: -4116901845270523824
+    second: Vegetables_Slices_45
+  - first:
+      213: 1237852085216717606
+    second: Vegetables_Slices_46
+  - first:
+      213: 4758894185226927007
+    second: Vegetables_Slices_47
+  - first:
+      213: 425630186868257985
+    second: Vegetables_Slices_48
+  - first:
+      213: 6818671906694648552
+    second: Vegetables_Slices_49
+  - first:
+      213: 9185667542570055583
+    second: Vegetables_Slices_50
+  - first:
+      213: 509871232275551850
+    second: Vegetables_Slices_51
+  - first:
+      213: 5919739150381639721
+    second: Vegetables_Slices_52
+  - first:
+      213: -7546536567807703361
+    second: Vegetables_Slices_53
+  - first:
+      213: 4959300447297266741
+    second: Vegetables_Slices_54
+  - first:
+      213: -5926845189830584912
+    second: Vegetables_Slices_55
+  - first:
+      213: -3720749687781075680
+    second: Vegetables_Slices_56
+  - first:
+      213: -64223823411179672
+    second: Vegetables_Slices_57
+  - first:
+      213: 8445933587536188970
+    second: Vegetables_Slices_58
+  - first:
+      213: 7463607049005523071
+    second: Vegetables_Slices_59
+  - first:
+      213: -6786413858689554801
+    second: Vegetables_Slices_60
+  - first:
+      213: -1219302542499139026
+    second: Vegetables_Slices_61
+  - first:
+      213: 957143706738539575
+    second: Vegetables_Slices_62
+  - first:
+      213: 7077790599979249386
+    second: Vegetables_Slices_63
+  - first:
+      213: -1358702713850984860
+    second: Vegetables_Slices_64
+  - first:
+      213: 4148171388675544823
+    second: Vegetables_Slices_65
+  - first:
+      213: 7512519841859557797
+    second: Vegetables_Slices_66
+  - first:
+      213: -1567065260666282227
+    second: Vegetables_Slices_67
+  - first:
+      213: 7078225651819137425
+    second: Vegetables_Slices_68
+  - first:
+      213: 4299978452991584899
+    second: Vegetables_Slices_69
+  - first:
+      213: -4082121338029473013
+    second: Vegetables_Slices_70
+  - first:
+      213: -637530184371738094
+    second: Vegetables_Slices_71
+  - first:
+      213: -8730774711219559629
+    second: Vegetables_Slices_72
+  - first:
+      213: 7817111242612711150
+    second: Vegetables_Slices_73
+  - first:
+      213: -629125890185569092
+    second: Vegetables_Slices_74
+  - first:
+      213: 4591278711805376169
+    second: Vegetables_Slices_75
+  - first:
+      213: 8028111013102791097
+    second: Vegetables_Slices_76
+  - first:
+      213: 1424448041383212532
+    second: Vegetables_Slices_77
+  - first:
+      213: -900793025204561745
+    second: Vegetables_Slices_78
+  - first:
+      213: 485970583069990028
+    second: Vegetables_Slices_79
+  - first:
+      213: -1413315666068536098
+    second: Vegetables_Slices_80
+  - first:
+      213: 2527129940185956779
+    second: Vegetables_Slices_81
+  - first:
+      213: 8346025080792358706
+    second: Vegetables_Slices_82
+  - first:
+      213: -4099097143500798146
+    second: Vegetables_Slices_83
+  - first:
+      213: -3534771094509358901
+    second: Vegetables_Slices_84
+  - first:
+      213: 4397098741670735213
+    second: Vegetables_Slices_85
+  - first:
+      213: -8181903518434188081
+    second: Vegetables_Slices_86
+  - first:
+      213: -2345948445785654459
+    second: Vegetables_Slices_87
+  - first:
+      213: -852919317982879565
+    second: Vegetables_Slices_88
+  - first:
+      213: -6686459766396674685
+    second: Vegetables_Slices_89
+  - first:
+      213: 2501958082458444423
+    second: Vegetables_Slices_90
+  - first:
+      213: -7763656831760438595
+    second: Vegetables_Slices_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegetables_Slices_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 995
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d0a03a026223e90800000000000000
+      internalID: -7047528545265250982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 996
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1224c39f95e054360800000000000000
+      internalID: 7153139362744255009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1000
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699029a71a9c1fa0800000000000000
+      internalID: -5828614391311853206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1000
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3191331ddf34380800000000000000
+      internalID: -8988061356354104364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 963
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb89fcc4f309a20b0800000000000000
+      internalID: -5752626972466374469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 964
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b79a3a1fb01070800000000000000
+      internalID: 8075164251248375403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 963
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9533659ea9c3ad460800000000000000
+      internalID: 7267187584753087321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 934
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985697231d354ed0800000000000000
+      internalID: -2430469271418677089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 937
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017bdc07ce5c5eb00800000000000000
+      internalID: 857308923379431184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 936
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b5d30a58725a50800000000000000
+      internalID: 6508396739510515202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 932
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7041354318018e0800000000000000
+      internalID: -1724736595550795834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 902
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929edb8dcf9677f70800000000000000
+      internalID: 9184926499734415657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 905
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcdc3000d595da00800000000000000
+      internalID: 780694831008373943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 908
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0961833880b9590800000000000000
+      internalID: -7666524580993396490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 902
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0bbcb32e99acbe0800000000000000
+      internalID: -1456182332556070739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb141f85d6b8725a0800000000000000
+      internalID: -6546110231599824452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 870
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da954eb1ef82ba0800000000000000
+      internalID: -6113357098406793917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 876
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bed0961f85180680800000000000000
+      internalID: -8788750968510423375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 869
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea5321255aaee00800000000000000
+      internalID: 1074853232992693975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 835
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec015fb4ebed5ae0800000000000000
+      internalID: -1558830528305492759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 837
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162342e7a92961d30800000000000000
+      internalID: 4401866878040158817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 806
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98b4820bd888e6d0800000000000000
+      internalID: -2960966280774633314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 806
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547d84bd7eb020660800000000000000
+      internalID: 7350450632266405701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 807
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bde5ef8c722b5c0800000000000000
+      internalID: -4201251758168679575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 807
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460f2d18db9200440800000000000000
+      internalID: 4899962288482742372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 772
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee9ba92b8549b250800000000000000
+      internalID: 5960872045803445986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 772
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dce8fb5c446a410800000000000000
+      internalID: 1487952343005580650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 774
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90be19182d7e63a0800000000000000
+      internalID: -6670256386915520356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 773
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3dfc701ac24bdb0800000000000000
+      internalID: -4777144234600836135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 746
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa0f6f120cb05b0800000000000000
+      internalID: -5401012075991356865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 742
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205aa62877ef3b160800000000000000
+      internalID: 7040250431752807682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 742
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33402a336a0d0270800000000000000
+      internalID: 8218236316314256187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 744
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c8cda95b82e91a0800000000000000
+      internalID: -6800953626830533624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 713
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd68c09bfe107c5a0800000000000000
+      internalID: -6501225407972604197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 707
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e042cce8ba0010800000000000000
+      internalID: 1155939581384780100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 708
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525c27850af90560800000000000000
+      internalID: 7280625174270726745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 711
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac29e990951ca90800000000000000
+      internalID: -7295452023513494965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 681
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972947927cbb4a3a0800000000000000
+      internalID: -6654987885278358919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 681
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec135f61812c6e30800000000000000
+      internalID: 4498006967638498541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 684
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494694fe93160ef0800000000000000
+      internalID: -142404764786341556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 675
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb5f1aba9fa49f0800000000000000
+      internalID: -483299494436946011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 642
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4606dfcf00ccab0800000000000000
+      internalID: -4986609600823270199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 644
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6819033cb92443f0800000000000000
+      internalID: -917562535789914005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 649
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572d5d796d6cd3d0800000000000000
+      internalID: -3180546936988162217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 651
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d79c44cef9d5e20800000000000000
+      internalID: 3341002335693929770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 612
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05010818593ddd6c0800000000000000
+      internalID: -4116901845270523824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 615
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba1dfb9ebbd2110800000000000000
+      internalID: 1237852085216717606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 614
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b7f1a3c0dfa0240800000000000000
+      internalID: 4758894185226927007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 615
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c437fd566428e500800000000000000
+      internalID: 425630186868257985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 585
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25876e8f9c0ae50800000000000000
+      internalID: 6818671906694648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 585
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9739b356fb0a7f70800000000000000
+      internalID: 9185667542570055583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 585
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6699f03f2d631700800000000000000
+      internalID: 509871232275551850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 585
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286875a463272250800000000000000
+      internalID: 5919739150381639721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 552
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6835f89f0554790800000000000000
+      internalID: -7546536567807703361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 552
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e6973b79f2d440800000000000000
+      internalID: 4959300447297266741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_55
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 553
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55a6d93bd9fbda0800000000000000
+      internalID: -5926845189830584912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 553
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d9a15fdd3d5cc0800000000000000
+      internalID: -3720749687781075680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 519
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f857bd5c4db1ff0800000000000000
+      internalID: -64223823411179672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 522
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2692a179dbf53570800000000000000
+      internalID: 8445933587536188970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 522
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706313311f049760800000000000000
+      internalID: 7463607049005523071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 517
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86650e2d80d1d1a0800000000000000
+      internalID: -6786413858689554801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 485
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22bb983cca241fe0800000000000000
+      internalID: -1219302542499139026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 484
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cb62f4125784d00800000000000000
+      internalID: 957143706738539575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 484
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeac5a0d0d593260800000000000000
+      internalID: 7077790599979249386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 487
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668d89941be42de0800000000000000
+      internalID: -1358702713850984860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 457
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d17966e3419930800000000000000
+      internalID: 4148171388675544823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 455
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9dc1e3ef4d14860800000000000000
+      internalID: 7512519841859557797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 455
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9126b27aa04ae0800000000000000
+      internalID: -1567065260666282227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 455
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ccb07ab8ea3260800000000000000
+      internalID: 7078225651819137425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 424
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa568ee979cab30800000000000000
+      internalID: 4299978452991584899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 425
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0306b465446957c0800000000000000
+      internalID: -4082121338029473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 424
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aeee2dca90727f0800000000000000
+      internalID: -637530184371738094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 427
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3336bc368ae06d680800000000000000
+      internalID: -8730774711219559629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_73
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 363
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee94a12245fb7c60800000000000000
+      internalID: 7817111242612711150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 366
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdc7c0655e447f0800000000000000
+      internalID: -629125890185569092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6f8f9a9af77bf30800000000000000
+      internalID: 4591278711805376169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 303
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9a4618e64996f60800000000000000
+      internalID: 8028111013102791097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b5a352f7a4c310800000000000000
+      internalID: 1424448041383212532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85884248dbf73f0800000000000000
+      internalID: -900793025204561745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c1d27aba38eb600800000000000000
+      internalID: 485970583069990028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 262
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed48d78c3e4e26ce0800000000000000
+      internalID: -1413315666068536098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c9029a4b221320800000000000000
+      internalID: 2527129940185956779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 210
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1123879903d370800000000000000
+      internalID: 8346025080792358706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3701ddadd41d17c0800000000000000
+      internalID: -4099097143500798146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 164
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc07375ea68f1fec0800000000000000
+      internalID: -3534771094509358901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 169
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6de99b3202a50d30800000000000000
+      internalID: 4397098741670735213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4263d791a047e80800000000000000
+      internalID: -8181903518434188081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 110
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf0936154817fd0800000000000000
+      internalID: -2345948445785654459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ef853662d924f0800000000000000
+      internalID: -852919317982879565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d1cf2d44ce433a0800000000000000
+      internalID: -6686459766396674685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_90
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7826adbbe9db8b220800000000000000
+      internalID: 2501958082458444423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetables_Slices_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba62e0ce33f14490800000000000000
+      internalID: -7763656831760438595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vegetables_Slices_0: -7047528545265250982
+      Vegetables_Slices_1: 7153139362744255009
+      Vegetables_Slices_10: -1724736595550795834
+      Vegetables_Slices_11: 9184926499734415657
+      Vegetables_Slices_12: 780694831008373943
+      Vegetables_Slices_13: -7666524580993396490
+      Vegetables_Slices_14: -1456182332556070739
+      Vegetables_Slices_15: -6546110231599824452
+      Vegetables_Slices_16: -6113357098406793917
+      Vegetables_Slices_17: -8788750968510423375
+      Vegetables_Slices_18: 1074853232992693975
+      Vegetables_Slices_19: -1558830528305492759
+      Vegetables_Slices_2: -5828614391311853206
+      Vegetables_Slices_20: 4401866878040158817
+      Vegetables_Slices_21: -2960966280774633314
+      Vegetables_Slices_22: 7350450632266405701
+      Vegetables_Slices_23: -4201251758168679575
+      Vegetables_Slices_24: 4899962288482742372
+      Vegetables_Slices_25: 5960872045803445986
+      Vegetables_Slices_26: 1487952343005580650
+      Vegetables_Slices_27: -6670256386915520356
+      Vegetables_Slices_28: -4777144234600836135
+      Vegetables_Slices_29: -5401012075991356865
+      Vegetables_Slices_3: -8988061356354104364
+      Vegetables_Slices_30: 7040250431752807682
+      Vegetables_Slices_31: 8218236316314256187
+      Vegetables_Slices_32: -6800953626830533624
+      Vegetables_Slices_33: -6501225407972604197
+      Vegetables_Slices_34: 1155939581384780100
+      Vegetables_Slices_35: 7280625174270726745
+      Vegetables_Slices_36: -7295452023513494965
+      Vegetables_Slices_37: -6654987885278358919
+      Vegetables_Slices_38: 4498006967638498541
+      Vegetables_Slices_39: -142404764786341556
+      Vegetables_Slices_4: -5752626972466374469
+      Vegetables_Slices_40: -483299494436946011
+      Vegetables_Slices_41: -4986609600823270199
+      Vegetables_Slices_42: -917562535789914005
+      Vegetables_Slices_43: -3180546936988162217
+      Vegetables_Slices_44: 3341002335693929770
+      Vegetables_Slices_45: -4116901845270523824
+      Vegetables_Slices_46: 1237852085216717606
+      Vegetables_Slices_47: 4758894185226927007
+      Vegetables_Slices_48: 425630186868257985
+      Vegetables_Slices_49: 6818671906694648552
+      Vegetables_Slices_5: 8075164251248375403
+      Vegetables_Slices_50: 9185667542570055583
+      Vegetables_Slices_51: 509871232275551850
+      Vegetables_Slices_52: 5919739150381639721
+      Vegetables_Slices_53: -7546536567807703361
+      Vegetables_Slices_54: 4959300447297266741
+      Vegetables_Slices_55: -5926845189830584912
+      Vegetables_Slices_56: -3720749687781075680
+      Vegetables_Slices_57: -64223823411179672
+      Vegetables_Slices_58: 8445933587536188970
+      Vegetables_Slices_59: 7463607049005523071
+      Vegetables_Slices_6: 7267187584753087321
+      Vegetables_Slices_60: -6786413858689554801
+      Vegetables_Slices_61: -1219302542499139026
+      Vegetables_Slices_62: 957143706738539575
+      Vegetables_Slices_63: 7077790599979249386
+      Vegetables_Slices_64: -1358702713850984860
+      Vegetables_Slices_65: 4148171388675544823
+      Vegetables_Slices_66: 7512519841859557797
+      Vegetables_Slices_67: -1567065260666282227
+      Vegetables_Slices_68: 7078225651819137425
+      Vegetables_Slices_69: 4299978452991584899
+      Vegetables_Slices_7: -2430469271418677089
+      Vegetables_Slices_70: -4082121338029473013
+      Vegetables_Slices_71: -637530184371738094
+      Vegetables_Slices_72: -8730774711219559629
+      Vegetables_Slices_73: 7817111242612711150
+      Vegetables_Slices_74: -629125890185569092
+      Vegetables_Slices_75: 4591278711805376169
+      Vegetables_Slices_76: 8028111013102791097
+      Vegetables_Slices_77: 1424448041383212532
+      Vegetables_Slices_78: -900793025204561745
+      Vegetables_Slices_79: 485970583069990028
+      Vegetables_Slices_8: 857308923379431184
+      Vegetables_Slices_80: -1413315666068536098
+      Vegetables_Slices_81: 2527129940185956779
+      Vegetables_Slices_82: 8346025080792358706
+      Vegetables_Slices_83: -4099097143500798146
+      Vegetables_Slices_84: -3534771094509358901
+      Vegetables_Slices_85: 4397098741670735213
+      Vegetables_Slices_86: -8181903518434188081
+      Vegetables_Slices_87: -2345948445785654459
+      Vegetables_Slices_88: -852919317982879565
+      Vegetables_Slices_89: -6686459766396674685
+      Vegetables_Slices_9: 6508396739510515202
+      Vegetables_Slices_90: 2501958082458444423
+      Vegetables_Slices_91: -7763656831760438595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

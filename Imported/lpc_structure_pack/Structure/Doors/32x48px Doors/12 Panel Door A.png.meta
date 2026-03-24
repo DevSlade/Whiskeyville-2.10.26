@@ -1,0 +1,2943 @@
+fileFormatVersion: 2
+guid: 1839c2fefaecfc84d98f20361a7706fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 528867732155632675
+    second: 12 Panel Door A_0
+  - first:
+      213: -2080053268900083302
+    second: 12 Panel Door A_1
+  - first:
+      213: -2715319846337844380
+    second: 12 Panel Door A_2
+  - first:
+      213: 2693444428143023093
+    second: 12 Panel Door A_3
+  - first:
+      213: 311453366841781581
+    second: 12 Panel Door A_4
+  - first:
+      213: 5200770782240771311
+    second: 12 Panel Door A_5
+  - first:
+      213: -442168113960946848
+    second: 12 Panel Door A_6
+  - first:
+      213: 6171131970490954501
+    second: 12 Panel Door A_7
+  - first:
+      213: 7955062579822358777
+    second: 12 Panel Door A_8
+  - first:
+      213: -5242483744269521696
+    second: 12 Panel Door A_9
+  - first:
+      213: 4872454926308726380
+    second: 12 Panel Door A_10
+  - first:
+      213: -5498101281347949343
+    second: 12 Panel Door A_11
+  - first:
+      213: -3383295189433423883
+    second: 12 Panel Door A_12
+  - first:
+      213: 6687740349649584343
+    second: 12 Panel Door A_13
+  - first:
+      213: 2261113184857716093
+    second: 12 Panel Door A_14
+  - first:
+      213: -5781323331096813369
+    second: 12 Panel Door A_15
+  - first:
+      213: -8912802165972808536
+    second: 12 Panel Door A_16
+  - first:
+      213: 6794883299451058330
+    second: 12 Panel Door A_17
+  - first:
+      213: -3068018975919141683
+    second: 12 Panel Door A_18
+  - first:
+      213: -3820309850203853747
+    second: 12 Panel Door A_19
+  - first:
+      213: -5744325583456969621
+    second: 12 Panel Door A_20
+  - first:
+      213: -3212712300749517381
+    second: 12 Panel Door A_21
+  - first:
+      213: 4391582868715752482
+    second: 12 Panel Door A_22
+  - first:
+      213: 7488078639979908241
+    second: 12 Panel Door A_23
+  - first:
+      213: -8573866505279425423
+    second: 12 Panel Door A_24
+  - first:
+      213: 6366696061109007811
+    second: 12 Panel Door A_25
+  - first:
+      213: 3008169815484442033
+    second: 12 Panel Door A_26
+  - first:
+      213: 6643429129149064262
+    second: 12 Panel Door A_27
+  - first:
+      213: -8805596939855323815
+    second: 12 Panel Door A_28
+  - first:
+      213: -7244703979123431907
+    second: 12 Panel Door A_29
+  - first:
+      213: -265554229065547970
+    second: 12 Panel Door A_30
+  - first:
+      213: 261848188761291741
+    second: 12 Panel Door A_31
+  - first:
+      213: -3887566103047361780
+    second: 12 Panel Door A_32
+  - first:
+      213: -7403103523928677102
+    second: 12 Panel Door A_33
+  - first:
+      213: 7795903944394066544
+    second: 12 Panel Door A_34
+  - first:
+      213: -3031699719022403289
+    second: 12 Panel Door A_35
+  - first:
+      213: -6568631603059483010
+    second: 12 Panel Door A_36
+  - first:
+      213: 6388414478461082676
+    second: 12 Panel Door A_37
+  - first:
+      213: 259014673953403296
+    second: 12 Panel Door A_38
+  - first:
+      213: 6066961518809006482
+    second: 12 Panel Door A_39
+  - first:
+      213: -5735835017784434469
+    second: 12 Panel Door A_40
+  - first:
+      213: 3034901437569308295
+    second: 12 Panel Door A_41
+  - first:
+      213: -9136639005371072222
+    second: 12 Panel Door A_42
+  - first:
+      213: 8328411034570715731
+    second: 12 Panel Door A_43
+  - first:
+      213: -5581774197396003434
+    second: 12 Panel Door A_44
+  - first:
+      213: 61750804020077165
+    second: 12 Panel Door A_45
+  - first:
+      213: 6986081003747205525
+    second: 12 Panel Door A_46
+  - first:
+      213: 5629185168472813215
+    second: 12 Panel Door A_47
+  - first:
+      213: 6239888567917002286
+    second: 12 Panel Door A_48
+  - first:
+      213: -7572611041662960532
+    second: 12 Panel Door A_49
+  - first:
+      213: -6828740990845362498
+    second: 12 Panel Door A_50
+  - first:
+      213: 5450599850505376829
+    second: 12 Panel Door A_51
+  - first:
+      213: -239574006851075740
+    second: 12 Panel Door A_52
+  - first:
+      213: 1192218957132814560
+    second: 12 Panel Door A_53
+  - first:
+      213: -6598722705745238466
+    second: 12 Panel Door A_54
+  - first:
+      213: 3620126545928670877
+    second: 12 Panel Door A_55
+  - first:
+      213: -3015968085253599151
+    second: 12 Panel Door A_56
+  - first:
+      213: -2529087654106655706
+    second: 12 Panel Door A_57
+  - first:
+      213: 8828990659798458879
+    second: 12 Panel Door A_58
+  - first:
+      213: -3286920250046721701
+    second: 12 Panel Door A_59
+  - first:
+      213: -787272454354155903
+    second: 12 Panel Door A_60
+  - first:
+      213: 3278120227891336176
+    second: 12 Panel Door A_61
+  - first:
+      213: 3862267789361789540
+    second: 12 Panel Door A_62
+  - first:
+      213: -8562363992419190717
+    second: 12 Panel Door A_63
+  - first:
+      213: -5011015528471188530
+    second: 12 Panel Door A_64
+  - first:
+      213: -7494123393007080450
+    second: 12 Panel Door A_65
+  - first:
+      213: 6071798704323234428
+    second: 12 Panel Door A_66
+  - first:
+      213: 5512200182560492569
+    second: 12 Panel Door A_67
+  - first:
+      213: 3959007019106308475
+    second: 12 Panel Door A_68
+  - first:
+      213: -750198896405121132
+    second: 12 Panel Door A_69
+  - first:
+      213: -2707258875709273980
+    second: 12 Panel Door A_70
+  - first:
+      213: 2526831085317304936
+    second: 12 Panel Door A_71
+  - first:
+      213: 4685442580469785199
+    second: 12 Panel Door A_72
+  - first:
+      213: 2494898830525242030
+    second: 12 Panel Door A_73
+  - first:
+      213: 942281092529928297
+    second: 12 Panel Door A_74
+  - first:
+      213: 4418593331831111275
+    second: 12 Panel Door A_75
+  - first:
+      213: -2091384352330078962
+    second: 12 Panel Door A_76
+  - first:
+      213: -3769340674670152480
+    second: 12 Panel Door A_77
+  - first:
+      213: 597715389533296537
+    second: 12 Panel Door A_78
+  - first:
+      213: -49842222177990776
+    second: 12 Panel Door A_79
+  - first:
+      213: -9137114750162072275
+    second: 12 Panel Door A_80
+  - first:
+      213: -4806227116992523440
+    second: 12 Panel Door A_81
+  - first:
+      213: 5997982677899712501
+    second: 12 Panel Door A_82
+  - first:
+      213: -7220315449937957388
+    second: 12 Panel Door A_83
+  - first:
+      213: 711658310734875189
+    second: 12 Panel Door A_84
+  - first:
+      213: -6482142602454474741
+    second: 12 Panel Door A_85
+  - first:
+      213: -7415717347291153754
+    second: 12 Panel Door A_86
+  - first:
+      213: 814999192020950434
+    second: 12 Panel Door A_87
+  - first:
+      213: -7089447215881004007
+    second: 12 Panel Door A_88
+  - first:
+      213: 2791872575500556144
+    second: 12 Panel Door A_89
+  - first:
+      213: 8884622843682887640
+    second: 12 Panel Door A_90
+  - first:
+      213: 868448020930464093
+    second: 12 Panel Door A_91
+  - first:
+      213: -5814077988412848147
+    second: 12 Panel Door A_92
+  - first:
+      213: 1162451798313822803
+    second: 12 Panel Door A_93
+  - first:
+      213: 3351246168525030213
+    second: 12 Panel Door A_94
+  - first:
+      213: 3110189059822245426
+    second: 12 Panel Door A_95
+  - first:
+      213: 7548252816821145439
+    second: 12 Panel Door A_96
+  - first:
+      213: -1790049641921721221
+    second: 12 Panel Door A_97
+  - first:
+      213: -6189618698395397868
+    second: 12 Panel Door A_98
+  - first:
+      213: 8867760497310038673
+    second: 12 Panel Door A_99
+  - first:
+      213: -3251095707553287671
+    second: 12 Panel Door A_100
+  - first:
+      213: 5246520609113357598
+    second: 12 Panel Door A_101
+  - first:
+      213: -4172050392291327244
+    second: 12 Panel Door A_102
+  - first:
+      213: -8209975831128522951
+    second: 12 Panel Door A_103
+  - first:
+      213: 8895502079244172459
+    second: 12 Panel Door A_104
+  - first:
+      213: 23946410877822276
+    second: 12 Panel Door A_105
+  - first:
+      213: 7546680458343404225
+    second: 12 Panel Door A_106
+  - first:
+      213: 2182320146606004534
+    second: 12 Panel Door A_107
+  - first:
+      213: -2673115198484742603
+    second: 12 Panel Door A_108
+  - first:
+      213: -6373488125448627510
+    second: 12 Panel Door A_109
+  - first:
+      213: 6204638486214937316
+    second: 12 Panel Door A_110
+  - first:
+      213: -7812367462715882302
+    second: 12 Panel Door A_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12 Panel Door A_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 703
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8d4c766ae65700800000000000000
+      internalID: 528867732155632675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 703
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990251929a2223e0800000000000000
+      internalID: -2080053268900083302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 703
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46be6737cfe315ad0800000000000000
+      internalID: -2715319846337844380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f358b9df69016520800000000000000
+      internalID: 2693444428143023093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 695
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d24bedf21825400800000000000000
+      internalID: 311453366841781581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 690
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec01b9b879dc2840800000000000000
+      internalID: 5200770782240771311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 687
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0637a5c617a1dd9f0800000000000000
+      internalID: -442168113960946848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 703
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5037b23c4d344a550800000000000000
+      internalID: 6171131970490954501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 703
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07054c44f066e60800000000000000
+      internalID: 7955062579822358777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 703
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec2e0a7fc4fe37b0800000000000000
+      internalID: -5242483744269521696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 703
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66dbbaa0ff6e9340800000000000000
+      internalID: 4872454926308726380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 695
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eca22ac302d2b3b0800000000000000
+      internalID: -5498101281347949343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 690
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7688f53fe1c01d0800000000000000
+      internalID: -3383295189433423883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 687
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d009e23a60afcc50800000000000000
+      internalID: 6687740349649584343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 607
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7575643676116f10800000000000000
+      internalID: 2261113184857716093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 607
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0eb46af0d94cfa0800000000000000
+      internalID: -5781323331096813369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 607
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accbdfe6ad5f4480800000000000000
+      internalID: -8912802165972808536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 607
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b30a2c564c4e50800000000000000
+      internalID: 6794883299451058330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 599
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc8e281ff43c65d0800000000000000
+      internalID: -3068018975919141683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 594
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6cae9e688bfac0800000000000000
+      internalID: -3820309850203853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 591
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cdbdb015e0840b0800000000000000
+      internalID: -5744325583456969621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 607
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0c442f272a63d0800000000000000
+      internalID: -3212712300749517381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 607
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c4e7bf95902fc30800000000000000
+      internalID: 4391582868715752482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_23
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 607
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c413a79dffae760800000000000000
+      internalID: 7488078639979908241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 607
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1743339f6d1830980800000000000000
+      internalID: -8573866505279425423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 599
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5f74bd55c0b5850800000000000000
+      internalID: 6366696061109007811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_26
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 594
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a00c528a2fb920800000000000000
+      internalID: 3008169815484442033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_27
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 591
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a9653893323c50800000000000000
+      internalID: 6643429129149064262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 511
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d18acbc3c3cc580800000000000000
+      internalID: -8805596939855323815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 511
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d162d757d14a57b90800000000000000
+      internalID: -7244703979123431907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 511
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff1fbe5df805cf0800000000000000
+      internalID: -265554229065547970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 511
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb32345a8542a300800000000000000
+      internalID: 261848188761291741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 503
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b230bf9379c0ac0800000000000000
+      internalID: -3887566103047361780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 498
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e9cc7194e24990800000000000000
+      internalID: -7403103523928677102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 495
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07accac355d903c60800000000000000
+      internalID: 7795903944394066544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 511
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a40e0b2d3de5d0800000000000000
+      internalID: -3031699719022403289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 511
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1c3feb5887d4a0800000000000000
+      internalID: -6568631603059483010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 511
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c92a2fe1538a850800000000000000
+      internalID: 6388414478461082676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_38
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 511
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13b904974389300800000000000000
+      internalID: 259014673953403296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 503
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29143927b5d223450800000000000000
+      internalID: 6066961518809006482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_40
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 498
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd066bae0783660b0800000000000000
+      internalID: -5735835017784434469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_41
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 495
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78614a227c22e1a20800000000000000
+      internalID: 3034901437569308295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22101eb8b33243180800000000000000
+      internalID: -9136639005371072222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 415
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f70bc5b5749370800000000000000
+      internalID: 8328411034570715731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 415
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69525c3e0fd8982b0800000000000000
+      internalID: -5581774197396003434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 415
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62263277026bd000800000000000000
+      internalID: 61750804020077165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 407
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591e478b8ab83f060800000000000000
+      internalID: 6986081003747205525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 402
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e28b50612ee1e40800000000000000
+      internalID: 5629185168472813215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 399
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb6b89799889650800000000000000
+      internalID: 6239888567917002286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_49
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 415
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c7a77016ea8e690800000000000000
+      internalID: -7572611041662960532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 415
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5381cf307b31a0800000000000000
+      internalID: -6828740990845362498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 415
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d349b2e7fab64ab40800000000000000
+      internalID: 5450599850505376829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 415
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618938c5bcdcacf0800000000000000
+      internalID: -239574006851075740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_53
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 407
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8536a23dc9b8010800000000000000
+      internalID: 1192218957132814560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 402
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3620c029a0ac64a0800000000000000
+      internalID: -6598722705745238466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_55
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 399
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e4a0cc9e54d3230800000000000000
+      internalID: 3620126545928670877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 319
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505b8871012526d0800000000000000
+      internalID: -3015968085253599151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_57
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 319
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249523ad20e6ecd0800000000000000
+      internalID: -2529087654106655706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 319
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff167822a30e68a70800000000000000
+      internalID: 8828990659798458879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b515dea82738262d0800000000000000
+      internalID: -3286920250046721701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_60
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 311
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18645c8bfdb0315f0800000000000000
+      internalID: -787272454354155903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 306
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35c72aaf83e7d20800000000000000
+      internalID: 3278120227891336176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 303
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ab75c5718899530800000000000000
+      internalID: 3862267789361789540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_63
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 319
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483242705f5c2980800000000000000
+      internalID: -8562363992419190717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_64
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 319
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb22852deb457ab0800000000000000
+      internalID: -5011015528471188530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_65
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 319
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2ed8ca768ff790800000000000000
+      internalID: -7494123393007080450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_66
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 319
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0dd670cc534450800000000000000
+      internalID: 6071798704323234428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_67
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 311
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c8c547cd44f7c40800000000000000
+      internalID: 5512200182560492569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_68
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 306
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b711c1d78e731f630800000000000000
+      internalID: 3959007019106308475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_69
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 303
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f1e41412c695f0800000000000000
+      internalID: -750198896405121132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 223
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488435e6562ed6ad0800000000000000
+      internalID: -2707258875709273980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862b0cffb7b111320800000000000000
+      internalID: 2526831085317304936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f622460d339060140800000000000000
+      internalID: 4685442580469785199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9eff8449af9220800000000000000
+      internalID: 2494898830525242030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 215
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96830d649a7a31d00800000000000000
+      internalID: 942281092529928297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 210
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef3be793ff15d30800000000000000
+      internalID: 4418593331831111275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_76
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 207
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052e8e1309e9f2e0800000000000000
+      internalID: -2091384352330078962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_77
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 223
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4bad090ac90bbc0800000000000000
+      internalID: -3769340674670152480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_78
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 223
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9979aeddaf28b4800800000000000000
+      internalID: 597715389533296537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 223
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c34453ccee4ff0800000000000000
+      internalID: -49842222177990776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_80
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d8b949b82723180800000000000000
+      internalID: -9137114750162072275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_81
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 215
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539fcdc6e9dc4db0800000000000000
+      internalID: -4806227116992523440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_82
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 210
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79825877d1d3350800000000000000
+      internalID: 5997982677899712501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_83
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 207
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdee286a594ccb90800000000000000
+      internalID: -7220315449937957388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 127
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8ecc867150e900800000000000000
+      internalID: 711658310734875189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00664d95adca06a0800000000000000
+      internalID: -6482142602454474741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 127
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa3200ec54161990800000000000000
+      internalID: -7415717347291153754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad93a472757f4b00800000000000000
+      internalID: 814999192020950434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 119
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cd78391593d9d90800000000000000
+      internalID: -7089447215881004007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_89
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 114
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779dd0c059beb620800000000000000
+      internalID: 2791872575500556144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_90
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 111
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71a0157658c4b70800000000000000
+      internalID: 8884622843682887640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_91
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 127
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d598371bfd85d0c00800000000000000
+      internalID: 868448020930464093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_92
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 127
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70c34bfde305fa0800000000000000
+      internalID: -5814077988412848147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_93
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 127
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a620b60cbd12010800000000000000
+      internalID: 1162451798313822803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_94
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 127
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543c2d572a4028e20800000000000000
+      internalID: 3351246168525030213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_95
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 119
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d20fa87c992b20800000000000000
+      internalID: 3110189059822245426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_96
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 114
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f477dc1f7c0c860800000000000000
+      internalID: 7548252816821145439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_97
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 111
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cc0f2b5577827e0800000000000000
+      internalID: -1790049641921721221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 31
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411d60b769e0a1aa0800000000000000
+      internalID: -6189618698395397868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_99
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19af76b503d901b70800000000000000
+      internalID: 8867760497310038673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 31
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023d74dda9c1e2d0800000000000000
+      internalID: -3251095707553287671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_101
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1db7fc52b26fc840800000000000000
+      internalID: 5246520609113357598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_102
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 23
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2427ec546e916c0800000000000000
+      internalID: -4172050392291327244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 18
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fba0bda7e401e80800000000000000
+      internalID: -8209975831128522951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_104
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacf81cb20c237b70800000000000000
+      internalID: 8895502079244172459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_105
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 31
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a4024223155000800000000000000
+      internalID: 23946410877822276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_106
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 31
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d0f094e13bb860800000000000000
+      internalID: 7546680458343404225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_107
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 31
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63911a46c98294e10800000000000000
+      internalID: 2182320146606004534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_108
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e7e96c3ef27ead0800000000000000
+      internalID: -2673115198484742603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_109
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 23
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad67e6152dc87a0800000000000000
+      internalID: -6373488125448627510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_110
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 18
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea0f8264dd4b1650800000000000000
+      internalID: 6204638486214937316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12 Panel Door A_111
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 15
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c400023f25e49390800000000000000
+      internalID: -7812367462715882302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
