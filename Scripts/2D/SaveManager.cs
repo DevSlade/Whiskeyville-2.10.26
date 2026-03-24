@@ -3,6 +3,7 @@
 // ============================================================================
 // PURPOSE:      Handles saving and loading game state
 // ATTACHED TO:  Persistent SaveManager GameObject
+// VERSION:      v2 — Added whiskey properties, bottle customization, research
 // ============================================================================
 
 using UnityEngine;
@@ -109,6 +110,36 @@ public class SaveManager : MonoBehaviour
         // Save buildings
         data.buildings = CollectBuildingData();
 
+        // Save whiskey properties
+        if (WhiskeyPropertyManager.Instance != null)
+        {
+            data.currentFlavorProfile      = WhiskeyPropertyManager.Instance.GetFlavorIndex();
+            data.currentQuality            = WhiskeyPropertyManager.Instance.CurrentQuality;
+            data.currentTemperatureProfile = WhiskeyPropertyManager.Instance.GetTemperatureIndex();
+            data.currentBatchSize          = WhiskeyPropertyManager.Instance.CurrentBatchSize;
+        }
+
+        // Save bottle customization
+        if (BottleCustomizationManager.Instance != null)
+        {
+            BottleCustomizationData design = BottleCustomizationManager.Instance.ActiveDesign;
+            data.glassTypeIndex      = design.glassTypeIndex;
+            data.labelColorIndex     = design.labelColorIndex;
+            data.emblemIndex         = design.emblemIndex;
+            data.distilleryName      = design.distilleryName;
+            data.whiskeyName         = design.whiskeyName;
+            data.tagline             = design.tagline;
+            data.vintageYear         = design.vintageYear;
+            data.bottlingHouseBuilt  = BottleCustomizationManager.Instance.IsBottlingHouseBuilt;
+        }
+
+        // Save research
+        if (ResearchManager.Instance != null)
+        {
+            data.researchPoints     = ResearchManager.Instance.ResearchPoints;
+            data.unlockedResearch   = ResearchManager.Instance.GetUnlockedNodeIds();
+        }
+
         // Write to file
         string json = JsonUtility.ToJson(data, true);
         File.WriteAllText(_savePath, json);
@@ -194,6 +225,38 @@ public class SaveManager : MonoBehaviour
 
         // Load buildings
         LoadBuildings(data.buildings);
+
+        // Load whiskey properties
+        if (WhiskeyPropertyManager.Instance != null)
+        {
+            WhiskeyPropertyManager.Instance.LoadFromSaveData(
+                data.currentFlavorProfile,
+                data.currentQuality,
+                data.currentTemperatureProfile,
+                data.currentBatchSize
+            );
+        }
+
+        // Load bottle customization
+        if (BottleCustomizationManager.Instance != null)
+        {
+            BottleCustomizationManager.Instance.LoadFromSaveData(
+                data.glassTypeIndex,
+                data.labelColorIndex,
+                data.emblemIndex,
+                data.distilleryName,
+                data.whiskeyName,
+                data.tagline,
+                data.vintageYear,
+                data.bottlingHouseBuilt
+            );
+        }
+
+        // Load research
+        if (ResearchManager.Instance != null)
+        {
+            ResearchManager.Instance.LoadFromSaveData(data.researchPoints, data.unlockedResearch);
+        }
 
         Debug.Log($"[SaveManager] 📂 Loaded. Seed: {data.gridSeed}, Buildings: {data.buildings.Count}");
         return true;

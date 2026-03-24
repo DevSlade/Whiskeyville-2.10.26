@@ -287,6 +287,28 @@ public class UIManager : MonoBehaviour
     }
 
     // ========================================================================
+    // 🍾 BOTTLE EDITOR (Phase 2 — stub for BottleCustomizationManager)
+    // ========================================================================
+
+    public void ToggleBottleEditor()
+    {
+        // Phase 2: This will show/hide the Bottle Customization Panel.
+        // The actual panel wiring is done when BottleEditorPanel is added to the scene.
+        Debug.Log("[UIManager] 🍾 ToggleBottleEditor called. (Panel not yet wired in scene)");
+    }
+
+    // ========================================================================
+    // 🔬 RESEARCH PANEL (Phase 2 — stub for ResearchManager)
+    // ========================================================================
+
+    public void ToggleResearchPanel()
+    {
+        // Phase 2: This will show/hide the Research Panel.
+        // The actual panel wiring is done when ResearchPanel is added to the scene.
+        Debug.Log("[UIManager] 🔬 ToggleResearchPanel called. (Panel not yet wired in scene)");
+    }
+
+    // ========================================================================
     // ⏸️ PAUSE SYSTEM
     // ========================================================================
 

@@ -104,7 +104,11 @@ return to their town — all without dev knowledge or hidden hotkeys.
 | **Progression & Unlocks** | Rewards investment. Unlocks new buildings over time. | [PROGRESSION_AND_UNLOCKS.md](features/PROGRESSION_AND_UNLOCKS.md) |
 | **Multiple Crops** | Adds variety. Different crops → different mash recipes. | [MULTIPLE_CROPS.md](features/MULTIPLE_CROPS.md) |
 | **Decorations** | Emotional ownership. QoL for town builders. | [DECORATIONS.md](features/DECORATIONS.md) |
-| **Expanded Rickhouse+** | Deeper aging mechanics. Quality tiers of whiskey. | See PROGRESSION doc |
+| **Whiskey Properties** | Flavor, quality, temperature, batch size affect price + fame. | [WHISKEY_PROPERTIES.md](features/WHISKEY_PROPERTIES.md) |
+| **Bottle Customization** | Brand identity. Glass type, label, logo editor. Requires Bottling House. | [BOTTLE_CUSTOMIZATION.md](features/BOTTLE_CUSTOMIZATION.md) |
+| **Research System** | Permanent upgrades via Research Lab. Five research trees. | [RESEARCH_SYSTEM.md](features/RESEARCH_SYSTEM.md) |
+| **Local Marketing** | Active campaigns to boost tourist traffic. | [research/LOCAL_MARKETING.md](research/LOCAL_MARKETING.md) |
+| **Financial Outlook (Ledger)** | Cash flow projections, bottleneck detection. | [research/FINANCIAL_PLANNING.md](research/FINANCIAL_PLANNING.md) |
 
 ### Phase 2 Milestone: First version people want to tell friends about.
 
@@ -121,6 +125,9 @@ return to their town — all without dev knowledge or hidden hotkeys.
 | **Events System** | Seasonal hooks. Limited-time content. | [EVENTS_SYSTEM.md](features/EVENTS_SYSTEM.md) |
 | **Saloon Visitors** | Converts fame into foot traffic. Validates whiskey quality. | See TOURISTS doc |
 | **Quest System** | Directed play for onboarding and mid-game goals. | See TOURISTS doc |
+| **Retention Systems** | Daily streaks, session summary, narrative postcards. | [research/RETENTION_STRATEGIES.md](research/RETENTION_STRATEGIES.md) |
+| **Memetic Spread** | Word-of-mouth tourist bursts. Viral Batch events. | [research/MEMETIC_RESEARCH.md](research/MEMETIC_RESEARCH.md) |
+| **Dopamine Feedback** | Critical batches, variable rewards, idle returns. | [research/DOPAMINE_HACKING.md](research/DOPAMINE_HACKING.md) |
 
 ### Phase 3 Milestone: Players have a reason to open the game every day.
 
@@ -191,6 +198,11 @@ Every future feature connects back to the same spine:
    │  Prestige ───────────────────── SaveManager         │
    │  Isometric ──────────────────── GridManager         │
    │  Mobile Touch ───────────────── InputSystem         │
+   │  WhiskeyProperties ─────────── SellManager          │
+   │  BottleCustomization ────────── SellManager          │
+   │  ResearchSystem ─────────────── ResearchManager      │
+   │  LocalMarketing ─────────────── TouristSpawner       │
+   │  FinancialLedger ────────────── InventoryManager     │
    └─────────────────────────────────────────────────────┘
 ```
 
