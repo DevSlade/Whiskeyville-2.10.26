@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212fbc6d1e52b4a4c95d4aeb135bc550, type: 3}
+  m_Name: FieldData
+  m_EditorClassIdentifier: 
+  buildingName: Field
+  prefab: {fileID: 232207571874320912, guid: 2be4b728c6c7aa2498cb5862216f62e7, type: 3}
+  cost: 50
+  isCrop: 1
+  outputResource: Corn
+  outputAmount: 1
+  productionInterval: 5
+  requiresInput: 0
+  inputResource: 
+  inputAmount: 0
+  popupColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212fbc6d1e52b4a4c95d4aeb135bc550, type: 3}
+  m_Name: SaloonData
+  m_EditorClassIdentifier: 
+  buildingName: Saloon
+  prefab: {fileID: 4748492833355128078, guid: 2ea87b0a184ac3a42a9d3fa7c471ba43, type: 3}
+  cost: 300
+  isCrop: 0
+  outputResource: 
+  outputAmount: 0
+  productionInterval: 0
+  requiresInput: 0
+  inputResource: 
+  inputAmount: 0
+  secondInputResource: 
+  secondInputAmount: 0
+  popupColor: {r: 0.8415094, g: 0.44022557, b: 0.37312207, a: 1}

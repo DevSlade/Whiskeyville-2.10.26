@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212fbc6d1e52b4a4c95d4aeb135bc550, type: 3}
+  m_Name: StillData
+  m_EditorClassIdentifier: 
+  buildingName: Still
+  prefab: {fileID: 6707443690450329924, guid: a4368f74d198fb24aa75b96b5335b2d0, type: 3}
+  cost: 150
+  outputResource: Whiskey
+  outputAmount: 1
+  productionInterval: 10
+  requiresInput: 1
+  inputResource: Mash
+  inputAmount: 2
+  popupColor: {r: 0.015686274, g: 1, b: 0.85871613, a: 1}
