@@ -3,6 +3,7 @@
 // ============================================================================
 // PURPOSE:      Serializable class holding all save data
 // USED BY:      SaveManager for JSON serialization
+// VERSION:      v2 — Added whiskey properties, bottle customization, research
 // ============================================================================
 
 using System;
@@ -37,6 +38,35 @@ public class GameData
     public List<BuildingSaveData> buildings = new List<BuildingSaveData>();
 
     // ========================================================================
+    // 🥃 WHISKEY PROPERTIES
+    // ========================================================================
+
+    public int currentFlavorProfile;      // FlavorProfile cast to int
+    public int currentQuality;
+    public int currentTemperatureProfile; // TemperatureProfile cast to int
+    public int currentBatchSize;
+
+    // ========================================================================
+    // 🍾 BOTTLE CUSTOMIZATION
+    // ========================================================================
+
+    public int    glassTypeIndex;
+    public int    labelColorIndex;
+    public int    emblemIndex;
+    public string distilleryName;
+    public string whiskeyName;
+    public string tagline;
+    public int    vintageYear;
+    public bool   bottlingHouseBuilt;
+
+    // ========================================================================
+    // 🔬 RESEARCH
+    // ========================================================================
+
+    public int          researchPoints;
+    public List<string> unlockedResearch = new List<string>();
+
+    // ========================================================================
     // 🔧 CONSTRUCTOR
     // ========================================================================
 
@@ -51,6 +81,26 @@ public class GameData
         wood = 0;
         barrel = 0;
         buildings = new List<BuildingSaveData>();
+
+        // Whiskey properties defaults
+        currentFlavorProfile      = 0; // FlavorProfile.Sweet
+        currentQuality            = 2;
+        currentTemperatureProfile = 1; // TemperatureProfile.Warm
+        currentBatchSize          = 1;
+
+        // Bottle customization defaults
+        glassTypeIndex   = 0;
+        labelColorIndex  = 1; // Kraft Brown
+        emblemIndex      = 0;
+        distilleryName   = "My Distillery";
+        whiskeyName      = "House Whiskey";
+        tagline          = "";
+        vintageYear      = 2026;
+        bottlingHouseBuilt = false;
+
+        // Research defaults
+        researchPoints   = 0;
+        unlockedResearch = new List<string>();
     }
 }
 

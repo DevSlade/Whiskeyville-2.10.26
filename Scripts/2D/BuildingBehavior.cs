@@ -123,7 +123,7 @@ public class BuildingBehavior : MonoBehaviour
     }
 
     // ========================================================================
-    // 🖱️ CLICK HANDLER — Non-production buildings open Sell Panel
+    // 🖱️ CLICK HANDLER — Non-production buildings open panels
     // ========================================================================
 
     private void OnMouseDown()
@@ -131,19 +131,27 @@ public class BuildingBehavior : MonoBehaviour
         if (!_isInitialized) return;
         if (_isProducer) return;
 
-        // Non-production building clicked (Saloon)
+        if (UIManager.Instance == null) return;
+
         if (_buildingName == "Saloon")
         {
-            if (UIManager.Instance != null)
-            {
-                UIManager.Instance.ToggleSellPanel();
-                Debug.Log("[BuildingBehavior] 🍺 Saloon clicked — toggling Sell Panel.");
-            }
+            UIManager.Instance.ToggleSellPanel();
+            Debug.Log("[BuildingBehavior] 🍺 Saloon clicked — toggling Sell Panel.");
+        }
+        else if (_buildingName == "BottlingHouse")
+        {
+            UIManager.Instance.ToggleBottleEditor();
+            Debug.Log("[BuildingBehavior] 🍾 Bottling House clicked — toggling Bottle Editor.");
+        }
+        else if (_buildingName == "ResearchLab")
+        {
+            UIManager.Instance.ToggleResearchPanel();
+            Debug.Log("[BuildingBehavior] 🔬 Research Lab clicked — toggling Research Panel.");
+        }
 
-            if (AudioManager.Instance != null)
-            {
-                AudioManager.Instance.PlaySFX(AudioManager.SFX_CLICK);
-            }
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.PlaySFX(AudioManager.SFX_CLICK);
         }
     }
 

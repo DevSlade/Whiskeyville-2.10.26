@@ -2,9 +2,10 @@
 // SELLMANAGER.CS
 // ============================================================================
 // PURPOSE:      Converts Aged Whiskey to Cash with visual feedback
-// VERSION:      v2 — Added sell popup feedback
-// UPDATED:      February 16, 2026
-// DEPENDENCIES: InventoryManager, AudioManager, ProductionPopupPool
+// VERSION:      v3 — Applies whiskey property and bottle customization multipliers
+// UPDATED:      March 2026
+// DEPENDENCIES: InventoryManager, AudioManager, ProductionPopupPool,
+//               WhiskeyPropertyManager, BottleCustomizationManager
 // ============================================================================
 
 using UnityEngine;
@@ -66,13 +67,16 @@ public class SellManager : MonoBehaviour
         // Consume Aged Whiskey
         InventoryManager.Instance.AddResource(InventoryManager.RESOURCE_AGED_WHISKEY, -1);
 
-        // Add Cash
-        InventoryManager.Instance.AddResource(InventoryManager.RESOURCE_CASH, _sellPrice);
+        // Calculate final sell price with property + customization multipliers
+        int finalPrice = CalculateSellPrice(_sellPrice);
 
-        Debug.Log($"[SellManager] 💰 Sold 1 Aged Whiskey for {_sellPrice} Cash.");
+        // Add Cash
+        InventoryManager.Instance.AddResource(InventoryManager.RESOURCE_CASH, finalPrice);
+
+        Debug.Log($"[SellManager] 💰 Sold 1 Aged Whiskey for {finalPrice} Cash.");
 
         // Popup
-        ShowSellPopup(_sellPrice);
+        ShowSellPopup(finalPrice);
 
         // SFX
         if (AudioManager.Instance != null)
@@ -99,7 +103,9 @@ public class SellManager : MonoBehaviour
             return 0;
         }
 
-        int totalCash = stock * _sellPrice;
+        // Calculate final price per bottle with property + customization multipliers
+        int pricePerBottle = CalculateSellPrice(_sellPrice);
+        int totalCash = stock * pricePerBottle;
 
         // Consume all Aged Whiskey
         InventoryManager.Instance.AddResource(InventoryManager.RESOURCE_AGED_WHISKEY, -stock);
@@ -107,7 +113,7 @@ public class SellManager : MonoBehaviour
         // Add Cash
         InventoryManager.Instance.AddResource(InventoryManager.RESOURCE_CASH, totalCash);
 
-        Debug.Log($"[SellManager] 💰 Sold {stock} Aged Whiskey for {totalCash} Cash.");
+        Debug.Log($"[SellManager] 💰 Sold {stock} Aged Whiskey for {totalCash} Cash ({pricePerBottle} each).");
 
         // Popup
         ShowSellPopup(totalCash);
@@ -119,6 +125,30 @@ public class SellManager : MonoBehaviour
         }
 
         return stock;
+    }
+
+    // ========================================================================
+    // 💰 PRICE CALCULATION
+    // ========================================================================
+
+    /// <summary>
+    /// Applies whiskey property and bottle customization multipliers to the base price.
+    /// </summary>
+    private int CalculateSellPrice(int basePrice)
+    {
+        float multiplier = 1.0f;
+
+        if (WhiskeyPropertyManager.Instance != null)
+        {
+            multiplier *= WhiskeyPropertyManager.Instance.GetSellPriceMultiplier();
+        }
+
+        if (BottleCustomizationManager.Instance != null)
+        {
+            multiplier *= BottleCustomizationManager.Instance.GetSellPriceMultiplier();
+        }
+
+        return Mathf.Max(1, Mathf.RoundToInt(basePrice * multiplier));
     }
 
     // ========================================================================
