@@ -1,7 +1,12 @@
 // ============================================================================
 // CROPBEHAVIOR.CS
 // ============================================================================
-// PURPOSE:      Handles crop growth stages and click-to-harvest
+// PURPOSE:      Handles crop growth stages and click-and-hold to harvest.
+//               Requires Sickle tool + ToolChargeSystem hold mechanic.
+// VERSION:      v4 — Charge system integration for harvest
+// UPDATED:      April 9, 2026
+// DEPENDENCIES: InventoryManager, AudioManager, ProductionPopupPool,
+//               ParticleManager, ToolManager, ToolChargeSystem
 // ============================================================================
 
 using UnityEngine;
@@ -10,18 +15,25 @@ using System.Collections;
 public class CropBehavior : MonoBehaviour
 {
     // ========================================================================
-    // 🌱 INSPECTOR - GROWTH STAGES
+    // 🌱 INSPECTOR — GROWTH STAGES
     // ========================================================================
 
     [Header("Growth Stage GameObjects")]
+    [Tooltip("Array of child GameObjects representing each growth stage (0 = seedling, last = ready to harvest)")]
     [SerializeField] private GameObject[] _growthStages;
 
     [Header("Growth Settings")]
+    [Tooltip("Seconds between each growth stage advance")]
     [SerializeField] private float _growthInterval = 5f;
 
     [Header("Harvest Settings")]
+    [Tooltip("Resource name added to inventory on harvest")]
     [SerializeField] private string _harvestResource = "Corn";
+
+    [Tooltip("Amount of resource added per harvest")]
     [SerializeField] private int _harvestAmount = 1;
+
+    [Tooltip("Color of the floating harvest popup")]
     [SerializeField] private Color _popupColor = Color.yellow;
 
     // ========================================================================
@@ -35,19 +47,20 @@ public class CropBehavior : MonoBehaviour
     // 🔒 PRIVATE STATE
     // ========================================================================
 
-    private int _currentStage = -1;
-    private bool _isFullyGrown = false;
-    private Coroutine _growthCoroutine;
-    private bool _isInitialized = false;
+    private int       _currentStage       = -1;
+    private bool      _isFullyGrown       = false;
+    private Coroutine _growthCoroutine    = null;
+    private bool      _isInitialized      = false;
+    private bool      _isWaitingForCharge = false; // True while charge ring is filling
 
     // ========================================================================
     // 📊 PUBLIC PROPERTIES
     // ========================================================================
 
-    public bool IsFullyGrown => _isFullyGrown;
-    public int CurrentStage => _currentStage;
-    public int BuildingIndex => _buildingIndex;
-    public Vector2Int GridPosition => _gridPosition;
+    public bool       IsFullyGrown  => _isFullyGrown;
+    public int        CurrentStage  => _currentStage;
+    public int        BuildingIndex => _buildingIndex;
+    public Vector2Int GridPosition  => _gridPosition;
 
     // ========================================================================
     // ⚙️ UNITY LIFECYCLE
@@ -61,55 +74,118 @@ public class CropBehavior : MonoBehaviour
         }
     }
 
+    // ========================================================================
+    // 🖱️ INPUT — Hold to charge, release to cancel
+    // ========================================================================
+
     private void OnMouseDown()
     {
-        TryHarvest();
+        // ---- Require Sickle tool ----
+        if (ToolManager.Instance == null) return;
+        if (ToolManager.Instance.ActiveTool != ToolType.Sickle)
+        {
+            Debug.Log("[CropBehavior] ⚠️ Need Sickle tool selected to harvest crops.");
+            return;
+        }
+
+        // ---- Must be fully grown ----
+        if (!_isFullyGrown)
+        {
+            Debug.Log($"[CropBehavior] ⏳ Not ready. Stage {_currentStage + 1}/{_growthStages.Length}");
+            AudioManager.Instance?.PlaySFX(AudioManager.SFX_ERROR);
+            return;
+        }
+
+        // ---- Prevent double-charge ----
+        if (_isWaitingForCharge) return;
+
+        // ---- Begin charge ----
+        if (ToolChargeSystem.Instance == null)
+        {
+            // No charge system present — harvest immediately as a safe fallback
+            Harvest();
+            return;
+        }
+
+        bool started = ToolChargeSystem.Instance.BeginCharge(
+            worldPos:   transform.position,
+            onComplete: OnChargeComplete,
+            onCancel:   OnChargeCancelled
+        );
+
+        if (started)
+        {
+            _isWaitingForCharge = true;
+            Debug.Log("[CropBehavior] ⏳ Harvest charge started — hold to reap.");
+        }
+    }
+
+    private void OnMouseUp()
+    {
+        // Released before ring filled → cancel
+        if (_isWaitingForCharge)
+        {
+            ToolChargeSystem.Instance?.CancelCharge();
+            // _isWaitingForCharge is cleared in OnChargeCancelled callback
+        }
     }
 
     // ========================================================================
-    // 💾 SAVE/LOAD METHODS
+    // ⚡ CHARGE CALLBACKS
     // ========================================================================
 
-    public void SetBuildingIndex(int index)
+    /// <summary>Called by ToolChargeSystem when the hold completes successfully.</summary>
+    private void OnChargeComplete()
     {
-        _buildingIndex = index;
+        _isWaitingForCharge = false;
+
+        // Re-validate before executing — state may have changed during hold
+        if (!_isFullyGrown) return;
+        if (ToolManager.Instance == null || ToolManager.Instance.ActiveTool != ToolType.Sickle) return;
+
+        Harvest();
     }
 
-    public void SetGridPosition(Vector2Int pos)
+    /// <summary>Called by ToolChargeSystem when mouse released before charge filled.</summary>
+    private void OnChargeCancelled()
     {
-        _gridPosition = pos;
+        _isWaitingForCharge = false;
+        Debug.Log("[CropBehavior] ❌ Harvest cancelled — released too early.");
     }
 
+    // ========================================================================
+    // 💾 SAVE / LOAD API
+    // ========================================================================
+
+    public void SetBuildingIndex(int index)     => _buildingIndex = index;
+    public void SetGridPosition(Vector2Int pos) => _gridPosition = pos;
+
+    /// <summary>Called by SaveManager to restore crop to its saved growth state.</summary>
     public void RestoreGrowthState(int stage, bool fullyGrown)
     {
         _isInitialized = true;
 
-        if (_growthStages == null || _growthStages. Length == 0) return;
+        if (_growthStages == null || _growthStages.Length == 0) return;
 
-        // Disable all stages
+        // Disable all stages first
         foreach (GameObject stageObj in _growthStages)
         {
             if (stageObj != null) stageObj.SetActive(false);
         }
 
-        // Clamp stage
-        stage = Mathf.Clamp(stage, 0, _growthStages.Length - 1);
+        // Restore saved stage
+        stage         = Mathf.Clamp(stage, 0, _growthStages.Length - 1);
         _currentStage = stage;
         _isFullyGrown = fullyGrown;
 
-        // Enable current stage
         if (_growthStages[_currentStage] != null)
-        {
             _growthStages[_currentStage].SetActive(true);
-        }
 
-        // Resume growth if not fully grown
+        // Resume growth coroutine if not yet at final stage
         if (!_isFullyGrown)
-        {
             _growthCoroutine = StartCoroutine(GrowthLoop());
-        }
 
-        Debug.Log($"[CropBehavior] 📂 Restored to stage {_currentStage + 1}, fullyGrown:  {_isFullyGrown}");
+        Debug.Log($"[CropBehavior] 📂 Restored stage {_currentStage + 1}, fullyGrown: {_isFullyGrown}");
     }
 
     // ========================================================================
@@ -126,6 +202,7 @@ public class CropBehavior : MonoBehaviour
 
         _isInitialized = true;
 
+        // Disable all stages
         foreach (GameObject stage in _growthStages)
         {
             if (stage != null) stage.SetActive(false);
@@ -137,7 +214,7 @@ public class CropBehavior : MonoBehaviour
         if (_growthStages[0] != null)
         {
             _growthStages[0].SetActive(true);
-            Debug.Log("[CropBehavior] 🌱 Stage 1 active.  Crop planted.");
+            Debug.Log("[CropBehavior] 🌱 Stage 1 active. Crop planted.");
         }
 
         if (_growthCoroutine != null) StopCoroutine(_growthCoroutine);
@@ -146,7 +223,7 @@ public class CropBehavior : MonoBehaviour
 
     private IEnumerator GrowthLoop()
     {
-        int totalStages = _growthStages.Length;
+        int totalStages    = _growthStages.Length;
         int lastStageIndex = totalStages - 1;
 
         while (_currentStage < lastStageIndex)
@@ -154,63 +231,47 @@ public class CropBehavior : MonoBehaviour
             yield return new WaitForSeconds(_growthInterval);
 
             if (_growthStages[_currentStage] != null)
-            {
                 _growthStages[_currentStage].SetActive(false);
-            }
 
             _currentStage++;
 
             if (_growthStages[_currentStage] != null)
-            {
                 _growthStages[_currentStage].SetActive(true);
-            }
 
             Debug.Log($"[CropBehavior] 🌱 Advanced to stage {_currentStage + 1}/{totalStages}");
         }
 
         _isFullyGrown = true;
-        Debug.Log("[CropBehavior] 🌾 Crop FULLY GROWN!  Click to harvest.");
+        Debug.Log("[CropBehavior] 🌾 Crop FULLY GROWN! Use Sickle to harvest.");
     }
 
     // ========================================================================
-    // 🌾 HARVEST SYSTEM
+    // 🌾 HARVEST
     // ========================================================================
-
-    private void TryHarvest()
-    {
-        if (! _isFullyGrown)
-        {
-            Debug.Log($"[CropBehavior] ⏳ Not ready.  Stage {_currentStage + 1}/{_growthStages.Length}");
-
-            if (AudioManager.Instance != null)
-            {
-                AudioManager.Instance.PlaySFX(AudioManager.SFX_ERROR);
-            }
-            return;
-        }
-
-        Harvest();
-    }
 
     private void Harvest()
     {
-        if (InventoryManager. Instance != null)
+        // ---- Add resource ----
+        if (InventoryManager.Instance != null)
         {
             InventoryManager.Instance.AddResource(_harvestResource, _harvestAmount);
             Debug.Log($"[CropBehavior] 🌾 Harvested {_harvestAmount} {_harvestResource}!");
         }
 
-        if (ProductionPopupPool.Instance != null)
-        {
-            string text = $"+{_harvestAmount} {_harvestResource}";
-            ProductionPopupPool. Instance.ShowPopup(text, transform.position, _popupColor);
-        }
+        // ---- Popup ----
+        ProductionPopupPool.Instance?.ShowPopup(
+            $"+{_harvestAmount} {_harvestResource}",
+            transform.position,
+            _popupColor
+        );
 
-        if (AudioManager.Instance != null)
-        {
-            AudioManager.Instance.PlaySFX(AudioManager.SFX_COLLECT);
-        }
+        // ---- SFX ----
+        AudioManager.Instance?.PlaySFX(AudioManager.SFX_HARVEST);
 
+        // ---- Particle ----
+        ParticleManager.Instance?.PlayParticle(ParticleManager.PARTICLE_HARVEST, transform.position);
+
+        // ---- Reset growth cycle ----
         ResetGrowth();
     }
 
@@ -231,21 +292,23 @@ public class CropBehavior : MonoBehaviour
         _isFullyGrown = false;
 
         if (_growthStages[0] != null)
-        {
             _growthStages[0].SetActive(true);
-        }
 
-        Debug.Log("[CropBehavior] 🌱 Crop replanted. Growing again.. .");
+        Debug.Log("[CropBehavior] 🌱 Crop replanted. Growing again.");
 
         _growthCoroutine = StartCoroutine(GrowthLoop());
     }
 
+    // ========================================================================
+    // ⚙️ EXTERNAL INITIALIZATION (called by BuildingPlacementManager)
+    // ========================================================================
+
     public void Initialize(string harvestResource, int harvestAmount, float growthInterval, Color popupColor)
     {
         _harvestResource = harvestResource;
-        _harvestAmount = harvestAmount;
-        _growthInterval = growthInterval;
-        _popupColor = popupColor;
-        _isInitialized = false;
+        _harvestAmount   = harvestAmount;
+        _growthInterval  = growthInterval;
+        _popupColor      = popupColor;
+        _isInitialized   = false; // Causes Start() to call StartGrowth()
     }
 }

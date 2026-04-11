@@ -1,100 +1,39 @@
 // ============================================================================
-// DEVTOOLS. CS
+// DEVTOOLS.CS — LEGACY WRAPPER
 // ============================================================================
-// PURPOSE:      Developer tools for testing
+// PURPOSE:      Backward-compatible stub. All functionality moved to DevConsole.cs
+// VERSION:      v2 — Now just a passthrough to DevConsole
+// UPDATED:      April 5, 2026
+// NOTE:         You can safely remove this script. DevConsole handles everything.
+//               Left in place so existing GameObjects with DevTools don't break.
+// ============================================================================
+// MIGRATION:
+//   Old: DevTools GameObject with F-key cheats (editor-only)
+//   New: DevConsole — works in ALL builds, has full UI, 40+ commands
+//        Press ` (backtick) or F12 to open
 // ============================================================================
 
 using UnityEngine;
 
 public class DevTools : MonoBehaviour
 {
-    [Header("Dev Tools Settings")]
-    [SerializeField] private bool _enableDevTools = true;
-    [SerializeField] private int _resourceAddAmount = 100;
+    [Header("DEPRECATED — Use DevConsole instead")]
+    [Tooltip("This script is now a stub. All dev tools are in DevConsole.cs")]
+    [SerializeField] private bool _showDeprecationWarning = true;
 
-    private void Update()
+    private void Start()
     {
-        if (! _enableDevTools) return;
-
-        HandleDevInput();
-    }
-
-    private void HandleDevInput()
-    {
-        // F1-F5: Add resources
-        if (Input.GetKeyDown(KeyCode.F1)) AddResource(InventoryManager.RESOURCE_CASH, _resourceAddAmount);
-        if (Input.GetKeyDown(KeyCode.F2)) AddResource(InventoryManager.RESOURCE_CORN, _resourceAddAmount);
-        if (Input.GetKeyDown(KeyCode.F3)) AddResource(InventoryManager.RESOURCE_MASH, _resourceAddAmount);
-        if (Input.GetKeyDown(KeyCode.F4)) AddResource(InventoryManager.RESOURCE_WHISKEY, _resourceAddAmount);
-        if (Input.GetKeyDown(KeyCode.F5)) AddResource(InventoryManager. RESOURCE_AGED_WHISKEY, _resourceAddAmount);
-
-        // F6: Sell All Aged Whiskey
-        if (Input.GetKeyDown(KeyCode. F6))
+        if (_showDeprecationWarning)
         {
-            if (SellManager.Instance != null)
-            {
-                int sold = SellManager.Instance.SellAll();
-                Debug.Log($"[DevTools] 💰 Sold {sold} Aged Whiskey.");
-            }
+            Debug.LogWarning("[DevTools] This script is DEPRECATED. Use DevConsole instead. Press ` or F12 to open the dev console.");
         }
 
-        // F7: Save Game
-        if (Input.GetKeyDown(KeyCode.F7))
+        // If no DevConsole exists, create one automatically
+        if (DevConsole.Instance == null)
         {
-            if (SaveManager.Instance != null)
-            {
-                SaveManager.Instance.SaveGame();
-                Debug.Log("[DevTools] 💾 Game saved.");
-            }
+            GameObject consoleObj = new GameObject("DevConsole");
+            consoleObj.AddComponent<DevConsole>();
+            Debug.Log("[DevTools] Auto-created DevConsole (migration from legacy DevTools).");
         }
-
-        // F8: Load Game
-        if (Input.GetKeyDown(KeyCode.F8))
-        {
-            if (SaveManager.Instance != null)
-            {
-                SaveManager.Instance. LoadGame();
-                Debug.Log("[DevTools] 📂 Game loaded.");
-            }
-        }
-
-        // F9: Log all resources
-        if (Input.GetKeyDown(KeyCode.F9)) LogAllResources();
-
-        // F10: Reset resources
-        if (Input.GetKeyDown(KeyCode.F10)) ResetAllResources();
-    }
-
-    private void AddResource(string resourceName, int amount)
-    {
-        if (InventoryManager.Instance == null) return;
-        InventoryManager.Instance. AddResource(resourceName, amount);
-        Debug.Log($"[DevTools] ✅ Added {amount} {resourceName}");
-    }
-
-    private void LogAllResources()
-    {
-        if (InventoryManager. Instance == null) return;
-
-        Debug.Log("========== [DevTools] RESOURCE DUMP ==========");
-        Debug.Log($"  Cash: {InventoryManager.Instance.GetResource(InventoryManager.RESOURCE_CASH)}");
-        Debug.Log($"  Corn: {InventoryManager.Instance.GetResource(InventoryManager.RESOURCE_CORN)}");
-        Debug.Log($"  Mash: {InventoryManager.Instance.GetResource(InventoryManager.RESOURCE_MASH)}");
-        Debug.Log($"  Whiskey: {InventoryManager. Instance.GetResource(InventoryManager.RESOURCE_WHISKEY)}");
-        Debug.Log($"  Aged Whiskey:  {InventoryManager.Instance. GetResource(InventoryManager. RESOURCE_AGED_WHISKEY)}");
-        Debug.Log("===============================================");
-    }
-
-    private void ResetAllResources()
-    {
-        if (InventoryManager.Instance == null) return;
-
-        InventoryManager.Instance.SetResource(InventoryManager. RESOURCE_CASH, 200);
-        InventoryManager. Instance.SetResource(InventoryManager.RESOURCE_CORN, 0);
-        InventoryManager. Instance.SetResource(InventoryManager.RESOURCE_MASH, 0);
-        InventoryManager.Instance.SetResource(InventoryManager.RESOURCE_WHISKEY, 0);
-        InventoryManager.Instance. SetResource(InventoryManager. RESOURCE_AGED_WHISKEY, 0);
-
-        Debug.Log("[DevTools] 🔄 Resources reset.");
     }
 }

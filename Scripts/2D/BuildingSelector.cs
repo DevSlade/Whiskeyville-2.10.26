@@ -2,9 +2,9 @@
 // BUILDINGSELECTOR.CS
 // ============================================================================
 // PURPOSE:      Handles building selection via hotkeys and UI
-// VERSION:      v2 — Added hotkey 6 for Saloon
-// UPDATED:      February 13, 2026
-// DEPENDENCIES: BuildingDatabase
+// VERSION:      v3 — Auto-sets ToolManager to Build on selection
+// UPDATED:      March 25, 2026
+// DEPENDENCIES: BuildingDatabase, ToolManager
 // ============================================================================
 
 using UnityEngine;
@@ -130,6 +130,12 @@ public class BuildingSelector : MonoBehaviour
 
         _selectedIndex = index;
         Debug.Log($"[BuildingSelector] 🏗️ Selected: {building.buildingName} (Index: {index})");
+
+        // AUTO-SET TOOL TO BUILD
+        if (ToolManager.Instance != null)
+        {
+            ToolManager.Instance.ForceSetTool(ToolType.Build);
+        }
 
         OnSelectionChanged?.Invoke(_selectedIndex);
     }

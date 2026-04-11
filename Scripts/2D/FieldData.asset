@@ -16,10 +16,13 @@ MonoBehaviour:
   prefab: {fileID: 232207571874320912, guid: 2be4b728c6c7aa2498cb5862216f62e7, type: 3}
   cost: 50
   isCrop: 1
+  showInBuildMenu: 0
   outputResource: Corn
   outputAmount: 1
   productionInterval: 5
   requiresInput: 0
   inputResource: 
   inputAmount: 0
+  secondInputResource: 
+  secondInputAmount: 0
   popupColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}

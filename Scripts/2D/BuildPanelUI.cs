@@ -36,6 +36,10 @@ public class BuildPanelUI : MonoBehaviour
     private List<Button> _generatedButtons = new List<Button>();
     private List<TextMeshProUGUI> _generatedLabels = new List<TextMeshProUGUI>();
 
+    // Maps visible button position → BuildingDatabase array index.
+    // Needed because some buildings (e.g. Farm) are in the database but hidden from UI.
+    private List<int> _buttonDatabaseIndices = new List<int>();
+
     // ========================================================================
     // 🚀 INITIALIZATION
     // ========================================================================
@@ -111,27 +115,32 @@ public class BuildPanelUI : MonoBehaviour
         }
         _generatedButtons.Clear();
         _generatedLabels.Clear();
+        _buttonDatabaseIndices.Clear();
 
-        // Generate one button per building
+        // Generate one button per VISIBLE building.
+        // Buildings with showInBuildMenu=false stay in the database for save/load
+        // but are intentionally excluded from the UI (e.g. Farm, which is hoe-only).
         for (int i = 0; i < buildings.Length; i++)
         {
             if (buildings[i] == null) continue;
+            if (!buildings[i].showInBuildMenu) continue; // Hidden from build panel
 
             BuildingData data = buildings[i];
-            int index = i;
+            int index = i; // Capture real database index for the button closure
 
             // Clone template
             GameObject btnObj = Instantiate(buttonTemplate, buttonContainer);
             btnObj.name = $"{data.buildingName}Button";
             btnObj.SetActive(true);
 
-            // Setup button click
+            // Setup button click — index is the real database index, not the visible button count
             Button btn = btnObj.GetComponent<Button>();
             if (btn != null)
             {
                 btn.onClick.RemoveAllListeners();
                 btn.onClick.AddListener(() => SelectBuilding(index));
                 _generatedButtons.Add(btn);
+                _buttonDatabaseIndices.Add(i); // Track database index for affordability refresh
             }
 
             // Find and set label text
@@ -197,10 +206,14 @@ public class BuildPanelUI : MonoBehaviour
         for (int i = 0; i < _generatedButtons.Count; i++)
         {
             if (_generatedButtons[i] == null) continue;
-            if (i >= buildings.Length || buildings[i] == null) continue;
+
+            // Use the tracked database index — NOT visual position i.
+            // These differ when hidden buildings (e.g. Farm) exist in the database.
+            int dbIndex = i < _buttonDatabaseIndices.Count ? _buttonDatabaseIndices[i] : i;
+            if (dbIndex >= buildings.Length || buildings[dbIndex] == null) continue;
 
             bool canAfford = InventoryManager.Instance != null &&
-                             InventoryManager.Instance.HasResource("Cash", buildings[i].cost);
+                             InventoryManager.Instance.HasResource("Cash", buildings[dbIndex].cost);
 
             _generatedButtons[i].interactable = canAfford;
         }

@@ -186,6 +186,8 @@ GameObject:
   - component: {fileID: 9008532955545635710}
   - component: {fileID: 1088220291050327803}
   - component: {fileID: 1573718779756640347}
+  - component: {fileID: -9203848560674056750}
+  - component: {fileID: -8395228787146372201}
   m_Layer: 0
   m_Name: Mashtun
   m_TagString: Untagged
@@ -278,3 +280,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2188b8f3e2e4f7444b56bdcc96344cb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-9203848560674056750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8882173613499181142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de8bb2b7970ef0148992b988face6063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _barWidth: 0.8
+  _barHeight: 0.12
+  _yOffset: 0.75
+  _bgColor: {r: 0.15, g: 0.1, b: 0.05, a: 0.85}
+  _fillColorLow: {r: 0.7, g: 0.38, b: 0.05, a: 1}
+  _fillColorHigh: {r: 1, g: 0.82, b: 0.1, a: 1}
+  _waitingColor: {r: 0.6, g: 0.55, b: 0.2, a: 0.7}
+  _flashColor: {r: 0.35, g: 0.85, b: 0.35, a: 1}
+  _flashDuration: 0.25
+--- !u!114 &-8395228787146372201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8882173613499181142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3bb402b10b8be49843a63717485a19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bobSpeed: 1
+  _bobAmplitude: 0.04
+  _waitSpeed: 3.5
+  _waitAmplitude: 0.015
+  _punchStrength: 0.15
+  _punchDuration: 0.18

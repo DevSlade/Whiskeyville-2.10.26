@@ -20,6 +20,9 @@ public class BuildingData : ScriptableObject
     [Tooltip("Is this a crop that requires click-to-harvest?")]
     public bool isCrop = false;
 
+    [Tooltip("Show this building in the Build Panel UI. Uncheck for hoe-only buildings like Farm — they stay in the database for save/load but won't appear as a button.")]
+    public bool showInBuildMenu = true;
+
     [Header("Production - Output")]
     public string outputResource = "Corn";
     public int outputAmount = 1;

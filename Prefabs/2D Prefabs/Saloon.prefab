@@ -99,6 +99,8 @@ GameObject:
   - component: {fileID: 2978042190738161425}
   - component: {fileID: 4773097983663015195}
   - component: {fileID: 2117085645506303849}
+  - component: {fileID: 2687801044211688539}
+  - component: {fileID: -2585127514326016415}
   m_Layer: 0
   m_Name: Saloon
   m_TagString: Untagged
@@ -242,6 +244,45 @@ PolygonCollider2D:
       - {x: 0.475, y: -0.475}
       - {x: 0.475, y: 0.475}
   m_UseDelaunayMesh: 0
+--- !u!114 &2687801044211688539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4748492833355128078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de8bb2b7970ef0148992b988face6063, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _barWidth: 0.8
+  _barHeight: 0.12
+  _yOffset: 0.75
+  _bgColor: {r: 0.15, g: 0.1, b: 0.05, a: 0.85}
+  _fillColorLow: {r: 0.7, g: 0.38, b: 0.05, a: 1}
+  _fillColorHigh: {r: 1, g: 0.82, b: 0.1, a: 1}
+  _waitingColor: {r: 0.6, g: 0.55, b: 0.2, a: 0.7}
+  _flashColor: {r: 0.35, g: 0.85, b: 0.35, a: 1}
+  _flashDuration: 0.25
+--- !u!114 &-2585127514326016415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4748492833355128078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3bb402b10b8be49843a63717485a19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bobSpeed: 1
+  _bobAmplitude: 0.04
+  _waitSpeed: 3.5
+  _waitAmplitude: 0.015
+  _punchStrength: 0.15
+  _punchDuration: 0.18
 --- !u!1 &5372411904803876894
 GameObject:
   m_ObjectHideFlags: 0

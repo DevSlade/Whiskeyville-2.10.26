@@ -31,7 +31,7 @@ public class ProductionPopup : MonoBehaviour
 
     private TextMesh _textMesh;
     private Vector3 _startPosition;
-    private Color _originalColor = Color. yellow;
+    private Color _originalColor = Color.yellow;
     private bool _isSetup = false;
 
     // ========================================================================
@@ -55,7 +55,7 @@ public class ProductionPopup : MonoBehaviour
             _textMesh.alignment = TextAlignment.Center;
             _textMesh.fontSize = 32;
             _textMesh.fontStyle = FontStyle.Bold;
-            _textMesh. color = Color.yellow;
+            _textMesh.color = Color.yellow;
             _originalColor = Color.yellow;
         }
 
@@ -89,7 +89,7 @@ public class ProductionPopup : MonoBehaviour
 
         float randomX = Random.Range(-_randomOffsetX, _randomOffsetX);
         _startPosition = position + new Vector3(randomX, 0.5f, 0f);
-        transform. position = _startPosition;
+        transform.position = _startPosition;
 
         transform.localScale = Vector3.one * _startScale;
 
@@ -128,7 +128,7 @@ public class ProductionPopup : MonoBehaviour
             {
                 currentScale = _endScale;
             }
-            transform. localScale = Vector3.one * currentScale;
+            transform.localScale = Vector3.one * currentScale;
 
             float alpha = 1f;
             if (t > 0.6f)
