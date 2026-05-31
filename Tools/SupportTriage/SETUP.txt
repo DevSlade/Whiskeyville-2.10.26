@@ -1,0 +1,115 @@
+============================================================
+WHISKEYVILLE SUPPORT TRIAGE — SETUP GUIDE
+============================================================
+One-time setup. Takes about 5 minutes.
+============================================================
+
+STEP 1 — Install Python (if not already installed)
+  Download from: https://www.python.org/downloads/
+  During install: CHECK "Add Python to PATH"
+  Verify: open a new terminal, type: python --version
+
+STEP 2 — Install the Anthropic library
+  Open terminal (Command Prompt or PowerShell), run:
+    pip install anthropic
+
+STEP 3 — Get your Claude API key
+  Go to: https://console.anthropic.com/
+  Log in (or create account) → API Keys → Create Key
+  Copy the key (starts with sk-ant-...)
+
+STEP 4 — Set the API key as environment variable
+  In PowerShell or Command Prompt:
+    setx ANTHROPIC_API_KEY "sk-ant-YOUR-KEY-HERE"
+
+  IMPORTANT: Close and reopen the terminal after setx.
+  The variable won't be visible in the same window.
+
+  To verify it worked:
+    echo %ANTHROPIC_API_KEY%     (Command Prompt)
+    $env:ANTHROPIC_API_KEY       (PowerShell)
+
+STEP 5 — Run the script
+  Navigate to this folder in terminal:
+    cd "C:\Users\james\OneDrive\Desktop\Ó Slade\Games\Whiskeyville\Tools\SupportTriage"
+
+  Run:
+    python support_triage.py
+
+============================================================
+DAILY USE — HOW TO TRIAGE MESSAGES
+============================================================
+
+Option A — INBOX FOLDER (recommended for batch):
+  1. Copy the text of a support message (email, App Store review, etc.)
+  2. Paste it into a .txt file
+  3. Save the file in: ./whiskeyville_support/inbox/
+     (this folder is created automatically on first run)
+  4. Name it anything: review1.txt, email_john.txt, etc.
+  5. Run: python support_triage.py → choose option 1
+  6. Processed files move to /processed automatically
+  7. Open triage_report.html in your browser to see everything
+
+Option B — PASTE NOW (quick single message):
+  1. Run: python support_triage.py → choose option 2
+  2. Paste the message
+  3. Ctrl+Z then Enter (Windows) to finish
+  4. Draft response appears in the HTML report
+
+============================================================
+OUTPUT FILES
+============================================================
+
+  ./whiskeyville_support/
+    inbox/              — drop .txt files here to process
+    processed/          — files move here after processing
+    triage_report.html  — open this in browser, updates each run
+    triage_log.json     — full history of all messages (never deleted)
+
+============================================================
+COST
+============================================================
+
+  Uses Claude Haiku API — approximately $0.001 per message.
+  100 messages/month ≈ $0.10 USD. Effectively free at low volume.
+
+  Get your API key at: https://console.anthropic.com/
+  Set a spending limit in the console: Settings → Limits
+
+============================================================
+SOURCES TO MONITOR FOR MESSAGES
+============================================================
+
+App Store Reviews:
+  Install AppFollow (free tier) at appfollow.io
+  It emails you when a new review is posted.
+  Copy the review text into a .txt file and triage it.
+
+Google Play Reviews:
+  Same — AppFollow handles both stores.
+
+Support Email:
+  Create a free Gmail: support@[yoursite].com or similar
+  Forward to your main email.
+  Copy messages to .txt files and triage.
+
+Reddit:
+  Set a Google Alert for "Whiskeyville" at google.com/alerts
+  Free, instant email when anyone mentions the game on Reddit.
+
+============================================================
+TROUBLESHOOTING
+============================================================
+
+"ANTHROPIC_API_KEY not set":
+  Run setx again, then close and reopen the terminal.
+
+"ModuleNotFoundError: anthropic":
+  Run: pip install anthropic
+
+JSON parse error:
+  Rare — Claude occasionally wraps output in markdown.
+  The script strips this automatically. If it still fails,
+  run again (usually resolves on retry).
+
+============================================================

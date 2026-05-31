@@ -1,0 +1,69 @@
+# ============================================================
+# WHISKEYVILLE — .gitignore
+# Unity 6 + Python Tools
+# ============================================================
+
+# ── Unity generated (never commit these) ────────────────────
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+[Rr]ecordings/
+Packages/packages-lock.json
+
+# ── Unity crash/sysinfo ──────────────────────────────────────
+sysinfo.txt
+crashlytics-build.properties
+
+# ── Build outputs ────────────────────────────────────────────
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+*.app
+
+# ── IDE ──────────────────────────────────────────────────────
+.idea/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Support triage runtime data (keep structure, not content)─
+Tools/SupportTriage/whiskeyville_support/processed/
+Tools/SupportTriage/whiskeyville_support/triage_report.html
+Tools/SupportTriage/whiskeyville_support/triage_log.json
+
+# ── Old project folder (has its own git repo) ───────────────
+Black Label Interactive/
+
+# ── OS ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.stackdump
+
+# ── Large/binary media (manage separately or with Git LFS) ──
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.mov
+*.psd
+*.ai
+*.zip
+*.7z
