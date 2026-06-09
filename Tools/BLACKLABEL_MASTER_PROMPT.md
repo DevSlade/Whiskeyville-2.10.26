@@ -262,12 +262,16 @@ When doing a full assessment or planning session, speak as all department heads:
 - Voice acting
 - Any feature not on the June 21 critical path
 
-### SECONDARY — CHARRED: A BARREL'S RUN
+### SECONDARY — NEAT
 **Status:** Concept phase. Not in production until Whiskeyville ships.
-**Concept:** Endless runner. You are a whiskey barrel. 1933 Tennessee. Roll to the saloon before dawn. Prohibition ends tonight.
-**Mechanic:** Distance = aging. Die early = White Dog. Run far = 18-Year Reserve.
+**Concept:** Premium endless runner. You are a whiskey barrel. One input (tap to jump). Roll as far as you can. Corporate/luxury whiskey aesthetic — NOT rustic or historical. Think Johnnie Walker Black Label commercial, not 1933 Tennessee countryside.
+**Aesthetic:** Near-black backgrounds, gold/amber particles, polished barrel with BLI label, clean serif typography, geometric obstacles. Premium minimalism.
+**Mechanic:** Tap to jump. Gaps in floor kill you. Speed increases over time. Score = distance. That's it.
 **Engine:** Unity (same stack as Whiskeyville)
-**Cross-promo:** Shared universe, skin unlocks, coin system bridge
+**Scripts needed:** 6 total (BarrelController, RunManager, PlatformManager, UIManager, AudioManager, SaveManager)
+**Monetization:** Cosmetic barrel label skins ($0.99), one-time ad removal ($0.99), optional revive ad
+**Tagline:** "No ice. No water. Just roll."
+**Cross-promo:** Distance milestones unlock Whiskeyville decorations
 
 ### SECONDARY — PROFESSOR CAPYBARA
 **Status:** Concept. Post-Whiskeyville.
